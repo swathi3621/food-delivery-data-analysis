@@ -1,0 +1,1501 @@
+Order_ID,Customer_ID,Restaurant,Food_Category,Order_Amount,Delivery_Time_Min,Rating,Location,Payment_Method,Order_Status
+FD10001,C1103,Pizza Point,Desserts,535.0,66.0,4.1,Guntur,Cash,Delivered
+FD10002,C1436,Urban Kitchen,South Indian,1234.0,66.0,3.4,Guntur,Card,Delivered
+FD10003,C1349,Food Palace,Burger,252.0,61.0,2.9,Visakhapatnam,Cash,Delivered
+FD10004,C1271,Tasty Bites,Biryani,1016.0,50.0,4.0,Hyderabad,Card,Delivered
+FD10005,C1107,Tasty Bites,Pizza,968.0,23.0,4.5,Guntur,Wallet,Refunded
+FD10006,C1072,Urban Kitchen,Chinese,1225.0,53.0,3.5,Vijayawada,Wallet,Delivered
+FD10007,C1189,Urban Kitchen,Biryani,852.0,65.0,2.8,Guntur,UPI,Delivered
+FD10008,C1021,Royal Meals,South Indian,1314.0,33.0,3.0,Tirupati,Wallet,Delivered
+FD10009,C1103,Pizza Point,Chinese,662.0,52.0,3.1,Hyderabad,Wallet,Delivered
+FD10010,C1122,Urban Kitchen,Pizza,1204.0,20.0,3.2,Kakinada,Card,Delivered
+FD10011,C1467,,Pizza,588.0,66.0,4.1,Visakhapatnam,UPI,Delivered
+FD10012,C1215,Cafe Delight,Burger,994.0,61.0,4.0,Hyderabad,Cash,Delivered
+FD10013,C1331,Biryani House,Chinese,1211.0,29.0,4.2,Tirupati,UPI,Delivered
+FD10014,C1459,Biryani House,Burger,1317.0,34.0,3.4,Tirupati,Wallet,Delivered
+FD10015,C1088,Cafe Delight,Biryani,203.0,23.0,4.6,Tirupati,Cash,Delivered
+FD10016,C1373,Fresh Bowl,Desserts,1219.0,46.0,3.0,Tirupati,UPI,Delivered
+FD10017,C1100,Royal Meals,Desserts,1321.0,18.0,3.7,Vijayawada,UPI,Delivered
+FD10018,C1360,Royal Meals,Desserts,1124.0,64.0,4.5,Visakhapatnam,UPI,Delivered
+FD10019,C1152,Cafe Delight,Chinese,1106.0,32.0,3.0,Kakinada,UPI,Delivered
+FD10020,C1131,Food Palace,Desserts,506.0,19.0,2.8,Tirupati,Card,Refunded
+FD10021,C1150,South Spice,Biryani,266.0,34.0,4.7,Tirupati,UPI,Cancelled
+FD10022,C1309,Spice Hub,Burger,608.0,,3.4,Guntur,Wallet,Delivered
+FD10023,C1258,Cafe Delight,Chinese,412.0,25.0,4.2,Visakhapatnam,Wallet,Delivered
+FD10024,C1344,Urban Kitchen,Burger,862.0,51.0,2.6,Hyderabad,Card,Delivered
+FD10025,C1492,Urban Kitchen,Chinese,780.0,36.0,4.2,Visakhapatnam,Cash,Refunded
+FD10026,C1414,Pizza Point,Burger,576.0,18.0,3.3,Visakhapatnam,Cash,Delivered
+FD10027,C1294,Cafe Delight,Pizza,172.0,43.0,2.6,Kakinada,Wallet,Delivered
+FD10028,C1386,Pizza Point,Burger,1264.0,58.0,4.0,Visakhapatnam,Wallet,Delivered
+FD10029,C1192,Cafe Delight,Desserts,681.0,48.0,3.1,Kakinada,Card,Delivered
+FD10030,C1444,Royal Meals,Pizza,361.0,27.0,,Tirupati,Cash,Refunded
+FD10031,C1277,Spice Hub,Burger,1463.0,56.0,2.7,Tirupati,Cash,Delivered
+FD10032,C1161,Royal Meals,Chinese,1431.0,23.0,2.9,Vijayawada,UPI,Delivered
+FD10033,C1460,South Spice,Chinese,344.0,56.0,3.2,Kakinada,UPI,Delivered
+FD10034,C1314,Biryani House,Chinese,1460.0,45.0,2.7,Kakinada,UPI,Delivered
+FD10035,C1022,Tasty Bites,South Indian,660.0,21.0,4.8,Hyderabad,Card,Delivered
+FD10036,C1253,Cafe Delight,Biryani,1199.0,18.0,2.5,Guntur,Wallet,Delivered
+FD10037,C1236,South Spice,Chinese,274.0,33.0,3.7,Visakhapatnam,Card,Refunded
+FD10038,C1345,Biryani House,Pizza,208.0,56.0,2.8,Hyderabad,Cash,Delivered
+FD10039,C1049,Fresh Bowl,Chinese,282.0,44.0,3.3,Kakinada,Wallet,Delivered
+FD10040,C1475,Spice Hub,South Indian,291.0,45.0,4.8,Hyderabad,UPI,Cancelled
+FD10041,C1059,Pizza Point,Desserts,164.0,49.0,2.9,Vijayawada,Card,Delivered
+FD10042,C1170,Pizza Point,Pizza,1062.0,35.0,4.9,Guntur,Card,Delivered
+FD10043,C1476,Royal Meals,South Indian,1223.0,45.0,3.0,Kakinada,UPI,Delivered
+FD10044,C1188,Urban Kitchen,Desserts,963.0,33.0,4.4,Kakinada,Card,Cancelled
+FD10045,C1464,Biryani House,Pizza,1251.0,45.0,3.9,Visakhapatnam,UPI,Delivered
+FD10046,C1271,Fresh Bowl,Burger,468.0,67.0,4.7,Guntur,Cash,Refunded
+FD10047,C1190,South Spice,Biryani,950.0,46.0,3.9,Vijayawada,Wallet,Delivered
+FD10048,C1446,Spice Hub,Biryani,142.0,16.0,3.8,Tirupati,Cash,Delivered
+FD10049,C1175,Biryani House,South Indian,587.0,66.0,3.0,Hyderabad,Cash,Delivered
+FD10050,C1446,Fresh Bowl,Desserts,177.0,24.0,2.9,Visakhapatnam,UPI,Delivered
+FD10051,C1051,Tasty Bites,Biryani,925.0,16.0,4.8,Kakinada,Card,Delivered
+FD10052,C1364,Cafe Delight,Desserts,1393.0,16.0,3.3,Tirupati,Cash,Delivered
+FD10053,C1055,Pizza Point,Desserts,773.0,38.0,3.4,Vijayawada,Cash,Refunded
+FD10054,C1244,South Spice,South Indian,800.0,31.0,4.4,Guntur,Cash,Delivered
+FD10055,C1320,Pizza Point,South Indian,858.0,46.0,3.3,Hyderabad,Card,Delivered
+FD10056,C1131,South Spice,South Indian,827.0,30.0,4.9,Visakhapatnam,Card,Delivered
+FD10057,C1485,Royal Meals,Biryani,1438.0,30.0,4.3,Kakinada,UPI,Delivered
+FD10058,C1307,Urban Kitchen,South Indian,1024.0,60.0,4.0,Kakinada,Cash,Delivered
+FD10059,C1135,South Spice,Biryani,1001.0,53.0,4.7,Tirupati,Wallet,Delivered
+FD10060,C1021,Pizza Point,South Indian,988.0,67.0,2.6,Tirupati,Card,Delivered
+FD10061,C1329,Royal Meals,Chinese,1092.0,45.0,3.1,Hyderabad,UPI,Delivered
+FD10062,C1167,South Spice,Desserts,1291.0,57.0,3.7,Guntur,Cash,Delivered
+FD10063,C1274,Tasty Bites,South Indian,438.0,38.0,3.1,Vijayawada,Wallet,Cancelled
+FD10064,C1388,Urban Kitchen,Pizza,292.0,15.0,4.4,Guntur,Card,Cancelled
+FD10065,C1089,South Spice,Desserts,382.0,25.0,4.8,Guntur,Wallet,Delivered
+FD10066,C1316,Royal Meals,Desserts,1459.0,69.0,3.6,Guntur,Card,Delivered
+FD10067,C1014,Biryani House,South Indian,489.0,35.0,3.4,Hyderabad,UPI,Delivered
+FD10068,C1242,Food Palace,Burger,1099.0,18.0,4.9,Hyderabad,Wallet,Delivered
+FD10069,C1265,Fresh Bowl,South Indian,624.0,21.0,3.6,Vijayawada,Cash,Delivered
+FD10070,C1346,Food Palace,Desserts,1363.0,40.0,3.7,Guntur,Cash,Delivered
+FD10071,C1053,Food Palace,Pizza,758.0,61.0,3.4,Hyderabad,Card,Delivered
+FD10072,C1386,Spice Hub,Desserts,815.0,64.0,4.8,Vijayawada,Cash,Delivered
+FD10073,C1340,Tasty Bites,Pizza,990.0,26.0,3.9,Kakinada,Wallet,Delivered
+FD10074,C1092,Biryani House,Biryani,1212.0,45.0,4.4,Vijayawada,UPI,Delivered
+FD10075,C1367,Cafe Delight,Chinese,1218.0,31.0,4.5,Guntur,Card,Delivered
+FD10076,C1444,South Spice,Desserts,551.0,47.0,3.4,Visakhapatnam,Wallet,Refunded
+FD10077,C1455,Fresh Bowl,South Indian,527.0,25.0,3.6,Guntur,Card,Delivered
+FD10078,C1428,Urban Kitchen,Biryani,1274.0,42.0,4.6,Visakhapatnam,UPI,Delivered
+FD10079,C1264,Biryani House,Chinese,1499.0,46.0,3.4,Vijayawada,Card,Delivered
+FD10080,C1431,Pizza Point,South Indian,1145.0,15.0,4.5,Kakinada,Cash,Refunded
+FD10081,C1035,Cafe Delight,Burger,982.0,61.0,4.9,Kakinada,Cash,Delivered
+FD10082,C1206,Spice Hub,South Indian,412.0,42.0,4.1,Hyderabad,Card,Delivered
+FD10083,C1081,Spice Hub,Pizza,939.0,67.0,4.4,Kakinada,UPI,Cancelled
+FD10084,C1420,Biryani House,Pizza,618.0,56.0,4.5,Tirupati,UPI,Delivered
+FD10085,C1050,Royal Meals,Burger,1329.0,21.0,4.6,Vijayawada,Cash,Delivered
+FD10086,C1360,Food Palace,Biryani,474.0,16.0,3.5,Hyderabad,UPI,Delivered
+FD10087,C1388,Pizza Point,Chinese,550.0,56.0,2.6,Kakinada,Card,Delivered
+FD10088,C1002,Spice Hub,South Indian,1114.0,38.0,3.5,Vijayawada,Wallet,Delivered
+FD10089,C1390,Fresh Bowl,Pizza,694.0,18.0,4.2,Guntur,Card,Delivered
+FD10090,C1054,Spice Hub,Biryani,1302.0,58.0,3.6,Kakinada,Cash,Delivered
+FD10091,C1106,Urban Kitchen,Burger,1333.0,33.0,4.4,Visakhapatnam,Cash,Delivered
+FD10092,C1260,South Spice,Desserts,599.0,40.0,3.4,Vijayawada,Cash,Delivered
+FD10093,C1310,Spice Hub,Pizza,563.0,25.0,4.1,Hyderabad,UPI,Delivered
+FD10094,C1477,Urban Kitchen,Burger,1247.0,54.0,3.0,Guntur,Card,Delivered
+FD10095,C1191,Biryani House,South Indian,212.0,64.0,,Tirupati,Wallet,Refunded
+FD10096,C1402,Biryani House,Chinese,1135.0,57.0,3.9,Guntur,Card,Delivered
+FD10097,C1218,Cafe Delight,Pizza,1249.0,25.0,3.0,Kakinada,Wallet,Delivered
+FD10098,C1044,Spice Hub,Pizza,430.0,59.0,3.2,Visakhapatnam,Card,Delivered
+FD10099,C1162,Fresh Bowl,,1406.0,17.0,4.4,Guntur,Cash,Delivered
+FD10100,C1202,Spice Hub,Desserts,239.0,26.0,3.7,Tirupati,Wallet,Delivered
+FD10101,C1446,Fresh Bowl,Biryani,1001.0,17.0,3.0,Hyderabad,Card,Delivered
+FD10102,C1484,Tasty Bites,Chinese,1220.0,56.0,4.9,Vijayawada,UPI,Delivered
+FD10103,C1270,Cafe Delight,Pizza,616.0,41.0,4.3,Visakhapatnam,UPI,Delivered
+FD10104,C1351,Tasty Bites,Chinese,668.0,63.0,4.9,Tirupati,Card,Delivered
+FD10105,C1304,Spice Hub,Pizza,945.0,68.0,3.6,Kakinada,Cash,Delivered
+FD10106,C1271,Cafe Delight,Chinese,1192.0,16.0,3.7,Kakinada,Wallet,Delivered
+FD10107,C1456,Tasty Bites,Burger,217.0,63.0,4.7,Kakinada,Card,Delivered
+FD10108,C1462,Food Palace,Pizza,987.0,30.0,3.8,Visakhapatnam,UPI,Delivered
+FD10109,C1215,Spice Hub,Chinese,1182.0,16.0,4.3,Guntur,Wallet,Delivered
+FD10110,C1252,Tasty Bites,Biryani,1156.0,68.0,3.1,Visakhapatnam,UPI,Delivered
+FD10111,C1190,Food Palace,Burger,1441.0,44.0,3.6,Kakinada,UPI,Delivered
+FD10112,C1296,Food Palace,Burger,149.0,34.0,2.8,Tirupati,Card,Delivered
+FD10113,C1213,Biryani House,Biryani,118.0,52.0,3.0,Vijayawada,UPI,Cancelled
+FD10114,C1208,Spice Hub,Chinese,825.0,42.0,2.5,Vijayawada,Wallet,Delivered
+FD10115,C1237,Food Palace,South Indian,296.0,39.0,2.6,Visakhapatnam,Cash,Delivered
+FD10116,C1338,Biryani House,Biryani,658.0,46.0,4.9,Kakinada,Card,Cancelled
+FD10117,C1367,Tasty Bites,Chinese,551.0,24.0,3.1,Hyderabad,Wallet,Delivered
+FD10118,C1053,Urban Kitchen,Biryani,388.0,56.0,4.2,Visakhapatnam,Card,Delivered
+FD10119,C1280,Spice Hub,Biryani,1264.0,54.0,4.6,Kakinada,UPI,Delivered
+FD10120,C1410,Cafe Delight,Pizza,1207.0,47.0,3.9,Guntur,UPI,Delivered
+FD10121,C1217,Fresh Bowl,Chinese,490.0,27.0,2.9,Vijayawada,Wallet,Delivered
+FD10122,C1252,Fresh Bowl,South Indian,314.0,70.0,4.3,Vijayawada,Wallet,Delivered
+FD10123,C1188,Tasty Bites,Pizza,314.0,55.0,4.0,Vijayawada,Cash,Delivered
+FD10124,C1380,Royal Meals,Biryani,227.0,68.0,4.3,Hyderabad,Wallet,Delivered
+FD10125,C1493,Royal Meals,Desserts,859.0,56.0,4.4,Kakinada,Wallet,Delivered
+FD10126,C1041,Tasty Bites,Biryani,503.0,61.0,4.9,Kakinada,Card,Delivered
+FD10127,C1157,Food Palace,Biryani,1152.0,51.0,3.9,Kakinada,UPI,Delivered
+FD10128,C1015,Spice Hub,Chinese,437.0,68.0,3.4,Kakinada,Wallet,Delivered
+FD10129,C1301,Fresh Bowl,Chinese,930.0,30.0,4.1,Hyderabad,Cash,Delivered
+FD10130,C1065,Fresh Bowl,Pizza,813.0,59.0,2.7,Tirupati,Wallet,Delivered
+FD10131,C1345,Food Palace,South Indian,460.0,36.0,4.7,Visakhapatnam,UPI,Delivered
+FD10132,C1327,Fresh Bowl,Pizza,668.0,34.0,2.8,Visakhapatnam,Wallet,Delivered
+FD10133,C1009,Cafe Delight,Burger,317.0,64.0,3.3,Kakinada,Card,Delivered
+FD10134,C1344,Spice Hub,Biryani,301.0,57.0,4.5,Guntur,UPI,Delivered
+FD10135,C1129,South Spice,Desserts,116.0,41.0,4.0,Vijayawada,Wallet,Delivered
+FD10136,C1492,Fresh Bowl,Biryani,421.0,55.0,3.5,Hyderabad,Card,Delivered
+FD10137,C1136,Tasty Bites,Biryani,617.0,30.0,3.7,Guntur,UPI,Delivered
+FD10138,C1472,Cafe Delight,Pizza,1448.0,48.0,4.6,Guntur,Wallet,Delivered
+FD10139,C1063,Fresh Bowl,Desserts,1441.0,46.0,3.4,Kakinada,Card,Delivered
+FD10140,C1139,Cafe Delight,Desserts,780.0,40.0,4.7,Hyderabad,Cash,Delivered
+FD10141,C1499,Biryani House,Desserts,1205.0,39.0,2.7,Visakhapatnam,Card,Cancelled
+FD10142,C1081,South Spice,Pizza,524.0,16.0,4.4,Vijayawada,Cash,Delivered
+FD10143,C1392,Pizza Point,Biryani,1327.0,26.0,4.6,Visakhapatnam,Wallet,Cancelled
+FD10144,C1163,Tasty Bites,Pizza,1118.0,54.0,3.0,Guntur,Card,Refunded
+FD10145,C1419,Tasty Bites,Chinese,486.0,23.0,3.6,Vijayawada,Cash,Delivered
+FD10146,C1289,Spice Hub,Chinese,877.0,26.0,2.9,Tirupati,UPI,Delivered
+FD10147,C1379,Cafe Delight,Pizza,197.0,40.0,4.3,Guntur,Card,Delivered
+FD10148,C1261,Food Palace,Desserts,1468.0,23.0,3.8,Visakhapatnam,Wallet,Cancelled
+FD10149,C1490,Tasty Bites,Biryani,307.0,24.0,4.1,Visakhapatnam,UPI,Delivered
+FD10150,C1231,Cafe Delight,Pizza,685.0,46.0,3.0,Kakinada,Cash,Refunded
+FD10151,C1041,Cafe Delight,Pizza,265.0,48.0,3.0,Visakhapatnam,Card,Delivered
+FD10152,C1028,Urban Kitchen,Pizza,121.0,62.0,2.6,Hyderabad,Card,Delivered
+FD10153,C1135,Urban Kitchen,Burger,253.0,34.0,3.3,Guntur,Wallet,Delivered
+FD10154,C1201,Pizza Point,Chinese,1418.0,53.0,3.9,Vijayawada,UPI,Delivered
+FD10155,C1328,Biryani House,Desserts,318.0,16.0,4.6,Visakhapatnam,Card,Delivered
+FD10156,C1268,Pizza Point,South Indian,768.0,15.0,4.2,Kakinada,Card,Delivered
+FD10157,C1418,Fresh Bowl,Desserts,329.0,65.0,3.6,Kakinada,UPI,Cancelled
+FD10158,C1033,Food Palace,South Indian,119.0,50.0,4.9,Visakhapatnam,Card,Delivered
+FD10159,C1048,Fresh Bowl,Burger,652.0,38.0,4.3,Hyderabad,UPI,Delivered
+FD10160,C1407,Royal Meals,Pizza,1049.0,68.0,4.8,Kakinada,UPI,Delivered
+FD10161,C1062,Fresh Bowl,Burger,247.0,41.0,3.8,Vijayawada,UPI,Delivered
+FD10162,C1216,Spice Hub,Burger,1231.0,16.0,3.1,Guntur,Wallet,Delivered
+FD10163,C1293,Fresh Bowl,Biryani,502.0,45.0,2.6,Tirupati,UPI,Delivered
+FD10164,C1099,Pizza Point,Chinese,695.0,28.0,4.3,Hyderabad,UPI,Delivered
+FD10165,C1172,Tasty Bites,South Indian,466.0,16.0,2.8,Kakinada,Cash,Delivered
+FD10166,C1360,Tasty Bites,Pizza,1432.0,43.0,3.3,Guntur,Cash,Delivered
+FD10167,C1214,Urban Kitchen,South Indian,901.0,29.0,3.8,Tirupati,Wallet,Delivered
+FD10168,C1475,Food Palace,Desserts,1017.0,26.0,3.9,Visakhapatnam,UPI,Delivered
+FD10169,C1035,Food Palace,South Indian,1257.0,51.0,4.0,Visakhapatnam,Cash,Delivered
+FD10170,C1449,Spice Hub,Desserts,1406.0,42.0,2.9,Vijayawada,Cash,Delivered
+FD10171,C1227,Pizza Point,Chinese,172.0,34.0,3.4,Tirupati,Card,Delivered
+FD10172,C1101,Urban Kitchen,Desserts,580.0,53.0,4.0,Visakhapatnam,UPI,Delivered
+FD10173,C1431,Royal Meals,South Indian,1475.0,38.0,4.9,Visakhapatnam,Cash,Delivered
+FD10174,C1462,Food Palace,South Indian,659.0,35.0,4.3,Kakinada,Wallet,Refunded
+FD10175,C1131,Tasty Bites,Desserts,1449.0,24.0,4.8,Vijayawada,Card,Cancelled
+FD10176,C1257,Fresh Bowl,Burger,844.0,60.0,4.4,Guntur,Card,Delivered
+FD10177,C1005,Fresh Bowl,Chinese,199.0,28.0,4.0,Visakhapatnam,UPI,Delivered
+FD10178,C1218,Urban Kitchen,Biryani,1182.0,51.0,3.0,Hyderabad,UPI,Cancelled
+FD10179,C1255,Pizza Point,Pizza,607.0,32.0,4.2,Hyderabad,Card,Delivered
+FD10180,C1398,Pizza Point,South Indian,357.0,38.0,4.1,Guntur,Wallet,Delivered
+FD10181,C1359,Biryani House,Pizza,512.0,28.0,4.0,Tirupati,UPI,Delivered
+FD10182,C1283,South Spice,Biryani,1188.0,48.0,3.7,Vijayawada,UPI,Delivered
+FD10183,C1393,Food Palace,Pizza,694.0,26.0,3.8,Kakinada,Card,Refunded
+FD10184,C1207,Pizza Point,Biryani,1277.0,36.0,3.3,Hyderabad,Card,Delivered
+FD10185,C1015,Tasty Bites,Desserts,365.0,70.0,3.8,Hyderabad,UPI,Delivered
+FD10186,C1346,Urban Kitchen,Burger,920.0,20.0,3.0,Guntur,Cash,Delivered
+FD10187,C1042,Royal Meals,South Indian,1202.0,50.0,4.5,Tirupati,UPI,Delivered
+FD10188,C1380,Biryani House,Biryani,1438.0,59.0,3.0,Tirupati,Cash,Cancelled
+FD10189,C1461,Cafe Delight,Pizza,761.0,50.0,2.7,Guntur,Card,Delivered
+FD10190,C1179,Spice Hub,South Indian,1046.0,36.0,3.6,Hyderabad,Cash,Delivered
+FD10191,C1063,Royal Meals,Burger,659.0,28.0,4.1,Vijayawada,Wallet,Delivered
+FD10192,C1352,Cafe Delight,Desserts,1016.0,30.0,3.6,Hyderabad,Card,Cancelled
+FD10193,C1231,Fresh Bowl,South Indian,990.0,50.0,3.2,Tirupati,UPI,Delivered
+FD10194,C1241,Spice Hub,Biryani,1371.0,70.0,3.9,Kakinada,UPI,Delivered
+FD10195,C1052,Food Palace,Burger,967.0,39.0,3.4,Hyderabad,Card,Delivered
+FD10196,C1096,Tasty Bites,Pizza,709.0,46.0,4.8,Vijayawada,Card,Delivered
+FD10197,C1388,Spice Hub,Burger,513.0,47.0,4.8,Visakhapatnam,Wallet,Delivered
+FD10198,C1222,South Spice,Burger,124.0,59.0,3.8,Hyderabad,Card,Delivered
+FD10199,C1485,Cafe Delight,Chinese,383.0,50.0,3.3,Guntur,UPI,Delivered
+FD10200,C1407,Food Palace,Burger,980.0,34.0,4.3,Visakhapatnam,Wallet,Delivered
+FD10201,C1231,South Spice,Burger,400.0,32.0,2.6,Guntur,UPI,Delivered
+FD10202,C1237,Fresh Bowl,South Indian,1191.0,52.0,3.7,Guntur,Cash,Delivered
+FD10203,C1143,South Spice,Pizza,1130.0,17.0,3.3,Guntur,Card,Delivered
+FD10204,C1171,Biryani House,South Indian,916.0,37.0,4.8,Hyderabad,Cash,Delivered
+FD10205,C1029,Biryani House,South Indian,1260.0,46.0,2.5,Tirupati,UPI,Delivered
+FD10206,C1036,Urban Kitchen,Biryani,1287.0,59.0,3.9,Visakhapatnam,Cash,Delivered
+FD10207,C1013,Royal Meals,South Indian,182.0,30.0,4.4,Vijayawada,Cash,Delivered
+FD10208,C1160,Royal Meals,Chinese,1196.0,19.0,3.7,Tirupati,UPI,Delivered
+FD10209,C1327,Food Palace,Chinese,1360.0,,2.7,Hyderabad,UPI,Cancelled
+FD10210,C1187,Fresh Bowl,Biryani,145.0,35.0,4.9,Guntur,Card,Delivered
+FD10211,C1243,Pizza Point,Desserts,717.0,54.0,3.8,Vijayawada,Cash,Cancelled
+FD10212,C1086,Biryani House,Pizza,1027.0,65.0,4.0,Visakhapatnam,Wallet,Delivered
+FD10213,C1284,Food Palace,Pizza,361.0,28.0,3.1,Tirupati,Wallet,Delivered
+FD10214,C1066,Pizza Point,South Indian,275.0,53.0,3.7,Kakinada,UPI,Delivered
+FD10215,C1170,Royal Meals,South Indian,1289.0,45.0,3.6,Tirupati,UPI,Delivered
+FD10216,C1045,Urban Kitchen,Desserts,756.0,28.0,2.7,Vijayawada,Cash,Delivered
+FD10217,C1062,South Spice,South Indian,941.0,20.0,2.8,Hyderabad,UPI,Delivered
+FD10218,C1441,,Pizza,469.0,26.0,4.6,Visakhapatnam,Wallet,Cancelled
+FD10219,C1134,Food Palace,Burger,153.0,30.0,3.1,Vijayawada,Card,Delivered
+FD10220,C1284,Spice Hub,Chinese,789.0,31.0,3.0,Guntur,Card,Cancelled
+FD10221,C1028,Pizza Point,Burger,1464.0,59.0,3.8,Visakhapatnam,Cash,Cancelled
+FD10222,C1108,South Spice,Burger,1250.0,37.0,4.4,Tirupati,Card,Delivered
+FD10223,C1044,Biryani House,Pizza,466.0,28.0,2.7,Vijayawada,UPI,Delivered
+FD10224,C1340,Royal Meals,Burger,1394.0,21.0,3.9,Tirupati,UPI,Delivered
+FD10225,C1286,Fresh Bowl,Desserts,743.0,60.0,2.8,Tirupati,UPI,Cancelled
+FD10226,C1446,Pizza Point,Biryani,478.0,46.0,2.6,Tirupati,UPI,Delivered
+FD10227,C1331,Royal Meals,South Indian,172.0,29.0,2.6,Hyderabad,Cash,Delivered
+FD10228,C1128,Biryani House,Biryani,1014.0,58.0,4.6,Tirupati,Card,Delivered
+FD10229,C1348,Pizza Point,Chinese,1371.0,31.0,2.8,Guntur,Wallet,Refunded
+FD10230,C1473,South Spice,South Indian,959.0,55.0,2.6,Guntur,Card,Delivered
+FD10231,C1231,Biryani House,Burger,142.0,68.0,3.6,Visakhapatnam,UPI,Delivered
+FD10232,C1190,Cafe Delight,Chinese,476.0,61.0,4.6,Kakinada,Wallet,Delivered
+FD10233,C1225,Food Palace,South Indian,1164.0,58.0,3.2,Tirupati,Cash,Cancelled
+FD10234,C1385,South Spice,Desserts,269.0,48.0,3.6,Tirupati,UPI,Delivered
+FD10235,C1377,Pizza Point,Desserts,311.0,19.0,2.6,Vijayawada,UPI,Delivered
+FD10236,C1283,Fresh Bowl,Desserts,138.0,59.0,3.6,Hyderabad,Wallet,Delivered
+FD10237,C1446,Royal Meals,Desserts,468.0,41.0,3.9,Kakinada,Cash,Refunded
+FD10238,C1121,Spice Hub,Burger,856.0,66.0,3.9,Visakhapatnam,Wallet,Delivered
+FD10239,C1116,Royal Meals,Biryani,250.0,37.0,3.3,Kakinada,Cash,Cancelled
+FD10240,C1461,Pizza Point,South Indian,1234.0,54.0,3.3,Tirupati,UPI,Delivered
+FD10241,C1233,Royal Meals,Burger,1170.0,28.0,2.8,Vijayawada,Card,Delivered
+FD10242,C1259,Food Palace,Desserts,1123.0,29.0,3.4,Hyderabad,UPI,Delivered
+FD10243,C1359,Biryani House,Biryani,836.0,57.0,2.7,Visakhapatnam,Card,Cancelled
+FD10244,C1198,Spice Hub,Chinese,1489.0,47.0,4.4,Kakinada,Card,Delivered
+FD10245,C1456,Tasty Bites,Chinese,168.0,67.0,4.9,Visakhapatnam,Cash,Cancelled
+FD10246,C1411,Pizza Point,Chinese,398.0,45.0,4.9,Tirupati,Wallet,Delivered
+FD10247,C1137,Urban Kitchen,Desserts,1043.0,49.0,4.7,Visakhapatnam,Cash,Delivered
+FD10248,C1318,Tasty Bites,Chinese,901.0,31.0,4.0,Vijayawada,UPI,Delivered
+FD10249,C1165,Royal Meals,Pizza,395.0,42.0,4.3,Visakhapatnam,Wallet,Delivered
+FD10250,C1225,Pizza Point,South Indian,302.0,33.0,3.2,Guntur,Card,Delivered
+FD10251,C1307,Cafe Delight,South Indian,160.0,60.0,4.1,Vijayawada,Card,Delivered
+FD10252,C1234,,Desserts,1045.0,68.0,3.6,Kakinada,UPI,Delivered
+FD10253,C1172,Spice Hub,Pizza,1062.0,37.0,,Hyderabad,Wallet,Cancelled
+FD10254,C1152,Fresh Bowl,Burger,1437.0,46.0,4.4,Hyderabad,UPI,Delivered
+FD10255,C1463,Cafe Delight,Burger,1284.0,54.0,3.2,Tirupati,UPI,Delivered
+FD10256,C1315,Tasty Bites,Chinese,430.0,27.0,3.3,Tirupati,Cash,Delivered
+FD10257,C1374,Biryani House,Biryani,437.0,34.0,4.8,Guntur,UPI,Delivered
+FD10258,C1160,Food Palace,Burger,1427.0,49.0,2.6,Kakinada,Wallet,Delivered
+FD10259,C1096,Fresh Bowl,Biryani,1461.0,19.0,3.7,Hyderabad,UPI,Delivered
+FD10260,C1472,Cafe Delight,South Indian,738.0,23.0,4.8,Hyderabad,Wallet,Delivered
+FD10261,C1233,Biryani House,Biryani,374.0,43.0,4.0,Hyderabad,Card,Delivered
+FD10262,C1180,Biryani House,South Indian,1287.0,20.0,3.9,Hyderabad,UPI,Delivered
+FD10263,C1113,Pizza Point,Pizza,418.0,39.0,3.1,Visakhapatnam,Wallet,Delivered
+FD10264,C1318,Cafe Delight,Pizza,688.0,45.0,3.4,Kakinada,Card,Delivered
+FD10265,C1497,Spice Hub,Desserts,603.0,36.0,4.6,Vijayawada,Wallet,Delivered
+FD10266,C1442,Royal Meals,Desserts,486.0,16.0,3.9,Vijayawada,Card,Delivered
+FD10267,C1052,Urban Kitchen,Chinese,969.0,59.0,3.8,Guntur,Cash,Delivered
+FD10268,C1268,Urban Kitchen,Burger,932.0,19.0,2.7,Visakhapatnam,UPI,Delivered
+FD10269,C1295,Tasty Bites,Chinese,1114.0,41.0,2.5,Hyderabad,UPI,Delivered
+FD10270,C1386,Tasty Bites,South Indian,702.0,39.0,4.9,Hyderabad,Card,Delivered
+FD10271,C1387,Urban Kitchen,Chinese,790.0,22.0,3.4,Tirupati,Cash,Delivered
+FD10272,C1113,Spice Hub,Biryani,593.0,69.0,4.0,Tirupati,Wallet,Delivered
+FD10273,C1101,Food Palace,South Indian,589.0,15.0,2.7,Guntur,Cash,Delivered
+FD10274,C1113,South Spice,Desserts,820.0,34.0,4.2,Hyderabad,Wallet,Delivered
+FD10275,C1440,Royal Meals,Pizza,1196.0,58.0,4.8,Guntur,Wallet,Delivered
+FD10276,C1081,Food Palace,Desserts,608.0,37.0,3.9,Visakhapatnam,UPI,Cancelled
+FD10277,C1187,Pizza Point,Burger,489.0,46.0,2.8,Vijayawada,Card,Delivered
+FD10278,C1113,South Spice,South Indian,394.0,25.0,4.0,Hyderabad,UPI,Delivered
+FD10279,C1002,South Spice,South Indian,1492.0,53.0,4.4,Kakinada,UPI,Refunded
+FD10280,C1130,Cafe Delight,Biryani,895.0,61.0,3.5,Visakhapatnam,UPI,Delivered
+FD10281,C1220,Spice Hub,Burger,964.0,68.0,4.7,Hyderabad,Wallet,Delivered
+FD10282,C1054,Spice Hub,Pizza,648.0,38.0,4.1,Kakinada,UPI,Delivered
+FD10283,C1343,South Spice,South Indian,748.0,25.0,4.7,Tirupati,Wallet,Delivered
+FD10284,C1485,Cafe Delight,South Indian,667.0,43.0,4.1,Guntur,Card,Delivered
+FD10285,C1224,Royal Meals,Biryani,1310.0,68.0,2.8,Tirupati,Wallet,Refunded
+FD10286,C1225,South Spice,Chinese,952.0,40.0,3.3,Vijayawada,Wallet,Delivered
+FD10287,C1385,Fresh Bowl,Pizza,,30.0,3.0,Tirupati,Cash,Delivered
+FD10288,C1403,Tasty Bites,Desserts,544.0,49.0,4.8,Hyderabad,UPI,Delivered
+FD10289,C1126,Tasty Bites,Burger,462.0,34.0,4.4,Kakinada,UPI,Delivered
+FD10290,C1130,Food Palace,South Indian,222.0,60.0,4.2,Tirupati,UPI,Delivered
+FD10291,C1053,Pizza Point,South Indian,1311.0,17.0,3.3,Hyderabad,UPI,Cancelled
+FD10292,C1172,Tasty Bites,Desserts,841.0,15.0,3.0,Vijayawada,Cash,Refunded
+FD10293,C1218,Biryani House,Pizza,779.0,67.0,4.4,Kakinada,Cash,Delivered
+FD10294,C1160,Food Palace,Chinese,519.0,61.0,3.7,Tirupati,Cash,Refunded
+FD10295,C1198,Tasty Bites,South Indian,1375.0,15.0,3.1,Guntur,Cash,Delivered
+FD10296,C1416,Pizza Point,Pizza,1458.0,31.0,4.0,Guntur,UPI,Delivered
+FD10297,C1247,Spice Hub,Desserts,191.0,16.0,2.6,Kakinada,Wallet,Delivered
+FD10298,C1324,Spice Hub,Biryani,162.0,43.0,3.3,Guntur,Card,Delivered
+FD10299,C1439,Royal Meals,Chinese,611.0,34.0,3.7,Tirupati,Cash,Delivered
+FD10300,C1203,South Spice,Burger,1262.0,20.0,2.9,Tirupati,Wallet,Delivered
+FD10301,C1184,Fresh Bowl,South Indian,1308.0,22.0,5.0,Kakinada,Cash,Delivered
+FD10302,C1123,Spice Hub,Pizza,1328.0,43.0,3.0,Tirupati,UPI,Delivered
+FD10303,C1401,Cafe Delight,Biryani,871.0,62.0,2.8,Hyderabad,UPI,Delivered
+FD10304,C1255,Tasty Bites,Burger,1337.0,65.0,3.0,Vijayawada,Wallet,Refunded
+FD10305,C1294,Cafe Delight,Pizza,355.0,47.0,4.4,Guntur,Wallet,Delivered
+FD10306,C1280,Pizza Point,Pizza,234.0,17.0,3.6,Hyderabad,Wallet,Delivered
+FD10307,C1325,Spice Hub,Burger,974.0,49.0,3.9,Kakinada,UPI,Delivered
+FD10308,C1372,Fresh Bowl,Biryani,921.0,19.0,2.6,Guntur,UPI,Delivered
+FD10309,C1098,Pizza Point,Desserts,187.0,41.0,2.6,Hyderabad,Card,Delivered
+FD10310,C1198,Biryani House,Biryani,1087.0,58.0,3.6,Tirupati,Wallet,Delivered
+FD10311,C1470,Biryani House,Chinese,1330.0,26.0,4.5,Kakinada,Card,Delivered
+FD10312,C1395,Cafe Delight,South Indian,1252.0,34.0,4.7,Kakinada,Cash,Delivered
+FD10313,C1240,South Spice,Burger,922.0,59.0,2.7,Guntur,Card,Delivered
+FD10314,C1144,Food Palace,Desserts,1126.0,34.0,3.8,Tirupati,Cash,Delivered
+FD10315,C1097,South Spice,Burger,1073.0,23.0,4.8,Guntur,Cash,Delivered
+FD10316,C1201,Royal Meals,Burger,1033.0,53.0,3.5,Visakhapatnam,Card,Delivered
+FD10317,C1124,South Spice,Biryani,220.0,18.0,4.6,Hyderabad,Wallet,Delivered
+FD10318,C1187,,South Indian,1161.0,65.0,2.8,Visakhapatnam,Cash,Delivered
+FD10319,C1326,Royal Meals,Chinese,1464.0,68.0,4.8,Hyderabad,Wallet,Delivered
+FD10320,C1464,Fresh Bowl,Pizza,1107.0,33.0,4.4,Vijayawada,UPI,Refunded
+FD10321,C1349,Spice Hub,Pizza,1024.0,52.0,4.9,Kakinada,Cash,Delivered
+FD10322,C1259,Fresh Bowl,Burger,744.0,41.0,4.2,Guntur,UPI,Delivered
+FD10323,C1148,Royal Meals,South Indian,813.0,59.0,3.4,Vijayawada,Card,Delivered
+FD10324,C1252,Pizza Point,Desserts,959.0,57.0,4.8,Vijayawada,Wallet,Delivered
+FD10325,C1443,Biryani House,Biryani,120.0,27.0,3.2,Kakinada,Card,Delivered
+FD10326,C1420,Royal Meals,South Indian,341.0,27.0,3.3,Kakinada,Cash,Cancelled
+FD10327,C1403,Fresh Bowl,South Indian,554.0,36.0,4.3,Hyderabad,UPI,Refunded
+FD10328,C1346,Pizza Point,Biryani,1062.0,42.0,4.4,Visakhapatnam,Cash,Delivered
+FD10329,C1451,Fresh Bowl,Burger,720.0,66.0,4.8,Tirupati,Card,Delivered
+FD10330,C1147,South Spice,South Indian,402.0,61.0,3.0,Hyderabad,Wallet,Delivered
+FD10331,C1148,Tasty Bites,Pizza,902.0,67.0,4.5,Tirupati,Wallet,Delivered
+FD10332,C1352,Cafe Delight,Biryani,1063.0,59.0,4.3,Vijayawada,Cash,Delivered
+FD10333,C1199,Food Palace,Desserts,168.0,36.0,2.7,Tirupati,Cash,Delivered
+FD10334,C1308,Fresh Bowl,Chinese,1252.0,57.0,3.5,Visakhapatnam,UPI,Delivered
+FD10335,C1489,Food Palace,Burger,295.0,33.0,3.2,Hyderabad,Card,Delivered
+FD10336,C1417,Urban Kitchen,,239.0,22.0,3.3,Kakinada,Cash,Delivered
+FD10337,C1424,Fresh Bowl,Chinese,382.0,66.0,5.0,Visakhapatnam,UPI,Delivered
+FD10338,C1128,Tasty Bites,Chinese,411.0,22.0,4.1,Visakhapatnam,Cash,Delivered
+FD10339,C1039,Food Palace,Desserts,845.0,56.0,4.3,Hyderabad,Wallet,Delivered
+FD10340,C1338,Royal Meals,South Indian,376.0,40.0,4.9,Kakinada,UPI,Cancelled
+FD10341,C1360,Fresh Bowl,Desserts,160.0,62.0,3.4,Visakhapatnam,UPI,Delivered
+FD10342,C1129,Spice Hub,South Indian,1442.0,65.0,4.5,Kakinada,Cash,Delivered
+FD10343,C1267,Cafe Delight,South Indian,151.0,40.0,3.6,Guntur,Card,Delivered
+FD10344,C1476,Tasty Bites,Biryani,252.0,37.0,4.7,Guntur,Wallet,Delivered
+FD10345,C1441,Food Palace,Biryani,1434.0,57.0,3.0,Guntur,Card,Delivered
+FD10346,C1473,Tasty Bites,Burger,643.0,27.0,4.9,Tirupati,UPI,Delivered
+FD10347,C1434,Pizza Point,South Indian,666.0,42.0,3.0,Visakhapatnam,Card,Refunded
+FD10348,C1151,Cafe Delight,Chinese,721.0,23.0,3.3,Hyderabad,UPI,Delivered
+FD10349,C1415,Royal Meals,Pizza,1300.0,34.0,4.4,Hyderabad,Card,Delivered
+FD10350,C1478,Fresh Bowl,Burger,1485.0,70.0,3.5,Tirupati,Cash,Delivered
+FD10351,C1298,Fresh Bowl,Biryani,413.0,33.0,4.0,Hyderabad,Card,Refunded
+FD10352,C1099,Fresh Bowl,Desserts,906.0,62.0,3.6,Guntur,UPI,Delivered
+FD10353,C1263,Cafe Delight,,947.0,53.0,4.4,Visakhapatnam,Wallet,Refunded
+FD10354,C1252,Spice Hub,Burger,196.0,65.0,3.1,Hyderabad,Wallet,Cancelled
+FD10355,C1144,Urban Kitchen,Burger,980.0,26.0,2.6,Hyderabad,Wallet,Delivered
+FD10356,C1346,Biryani House,Burger,1336.0,29.0,3.2,Vijayawada,UPI,Cancelled
+FD10357,C1112,South Spice,Pizza,928.0,45.0,3.7,Vijayawada,Card,Refunded
+FD10358,C1500,Food Palace,Desserts,,69.0,2.9,Vijayawada,Wallet,Delivered
+FD10359,C1060,Spice Hub,Desserts,1129.0,28.0,3.4,Visakhapatnam,Wallet,Delivered
+FD10360,C1369,Royal Meals,Desserts,1110.0,25.0,3.5,Guntur,Wallet,Delivered
+FD10361,C1002,Food Palace,South Indian,208.0,40.0,2.6,Kakinada,Cash,Delivered
+FD10362,C1385,Fresh Bowl,Chinese,646.0,56.0,4.0,Guntur,UPI,Delivered
+FD10363,C1304,Tasty Bites,Desserts,1162.0,41.0,4.7,Guntur,UPI,Delivered
+FD10364,C1254,Royal Meals,Burger,761.0,25.0,2.9,Visakhapatnam,UPI,Delivered
+FD10365,C1140,Food Palace,Burger,524.0,52.0,4.0,Visakhapatnam,UPI,Delivered
+FD10366,C1453,Fresh Bowl,Desserts,729.0,48.0,4.2,Vijayawada,UPI,Delivered
+FD10367,C1037,Food Palace,Desserts,360.0,57.0,3.5,Hyderabad,Cash,Cancelled
+FD10368,C1160,Tasty Bites,Burger,186.0,33.0,4.3,Tirupati,Card,Delivered
+FD10369,C1009,Fresh Bowl,South Indian,564.0,20.0,3.5,Tirupati,Cash,Delivered
+FD10370,C1233,Urban Kitchen,Biryani,175.0,60.0,3.8,Kakinada,Wallet,Delivered
+FD10371,C1099,Spice Hub,Biryani,570.0,66.0,2.5,Hyderabad,Cash,Delivered
+FD10372,C1147,Pizza Point,Desserts,513.0,52.0,4.2,Kakinada,UPI,Refunded
+FD10373,C1304,South Spice,Pizza,924.0,63.0,4.2,Vijayawada,Cash,Delivered
+FD10374,C1208,Cafe Delight,Desserts,994.0,56.0,2.6,Kakinada,UPI,Delivered
+FD10375,C1131,South Spice,Desserts,825.0,42.0,3.4,Hyderabad,Cash,Cancelled
+FD10376,C1404,Royal Meals,Biryani,556.0,15.0,4.9,Hyderabad,UPI,Refunded
+FD10377,C1152,South Spice,Burger,1408.0,49.0,3.6,Tirupati,Wallet,Delivered
+FD10378,C1054,Fresh Bowl,Desserts,1362.0,54.0,3.8,Vijayawada,UPI,Delivered
+FD10379,C1120,Urban Kitchen,Burger,752.0,22.0,4.8,Visakhapatnam,Cash,Delivered
+FD10380,C1161,Pizza Point,Burger,771.0,66.0,4.3,Kakinada,Wallet,Delivered
+FD10381,C1408,Spice Hub,Pizza,1495.0,68.0,4.0,Tirupati,Cash,Delivered
+FD10382,C1116,Spice Hub,Burger,594.0,61.0,4.5,Kakinada,Wallet,Delivered
+FD10383,C1075,Tasty Bites,Biryani,1168.0,70.0,4.7,Kakinada,Card,Cancelled
+FD10384,C1113,Cafe Delight,South Indian,1370.0,21.0,3.6,Visakhapatnam,Card,Delivered
+FD10385,C1456,Food Palace,South Indian,696.0,25.0,3.7,Vijayawada,Card,Delivered
+FD10386,C1420,Urban Kitchen,Chinese,549.0,53.0,3.5,Hyderabad,Cash,Refunded
+FD10387,C1422,Food Palace,Desserts,584.0,18.0,4.9,Guntur,Cash,Delivered
+FD10388,C1104,Pizza Point,Biryani,745.0,39.0,4.2,Kakinada,Wallet,Refunded
+FD10389,C1340,South Spice,Burger,719.0,26.0,2.7,Guntur,Wallet,Refunded
+FD10390,C1254,Spice Hub,South Indian,1141.0,40.0,4.7,Vijayawada,Wallet,Delivered
+FD10391,C1227,Pizza Point,Biryani,761.0,52.0,3.7,Guntur,Wallet,Delivered
+FD10392,C1112,South Spice,South Indian,857.0,60.0,2.7,Kakinada,UPI,Delivered
+FD10393,C1473,Spice Hub,Burger,388.0,26.0,3.9,Visakhapatnam,Card,Delivered
+FD10394,C1099,South Spice,South Indian,820.0,57.0,3.5,Guntur,UPI,Delivered
+FD10395,C1153,Cafe Delight,Desserts,737.0,65.0,4.7,Vijayawada,UPI,Delivered
+FD10396,C1349,Urban Kitchen,Desserts,334.0,67.0,3.0,Vijayawada,UPI,Refunded
+FD10397,C1402,Royal Meals,,515.0,51.0,4.6,Visakhapatnam,UPI,Delivered
+FD10398,C1384,Pizza Point,Chinese,1037.0,60.0,3.9,Guntur,Card,Delivered
+FD10399,C1366,Pizza Point,South Indian,598.0,67.0,2.6,Guntur,UPI,Delivered
+FD10400,C1338,Biryani House,Biryani,1073.0,38.0,4.9,Hyderabad,Wallet,Delivered
+FD10401,C1194,Fresh Bowl,Desserts,733.0,30.0,3.8,Tirupati,Cash,Cancelled
+FD10402,C1310,Cafe Delight,Biryani,1119.0,27.0,3.2,Vijayawada,Wallet,Delivered
+FD10403,C1163,Cafe Delight,Biryani,214.0,39.0,3.7,Hyderabad,Cash,Delivered
+FD10404,C1208,Food Palace,South Indian,1031.0,68.0,4.6,Vijayawada,Wallet,Delivered
+FD10405,C1445,South Spice,Biryani,773.0,68.0,3.3,Hyderabad,Wallet,Delivered
+FD10406,C1169,Fresh Bowl,Desserts,1357.0,66.0,3.0,Tirupati,Cash,Delivered
+FD10407,C1484,Urban Kitchen,Burger,1134.0,68.0,2.8,Hyderabad,Card,Delivered
+FD10408,C1161,Urban Kitchen,Chinese,305.0,18.0,3.2,Vijayawada,UPI,Delivered
+FD10409,C1068,Cafe Delight,Burger,346.0,25.0,4.5,Guntur,Wallet,Refunded
+FD10410,C1289,Urban Kitchen,Biryani,857.0,46.0,3.7,Vijayawada,Card,Cancelled
+FD10411,C1398,Biryani House,Burger,1250.0,63.0,3.1,Kakinada,UPI,Delivered
+FD10412,C1277,Pizza Point,Desserts,246.0,21.0,2.9,Visakhapatnam,Card,Cancelled
+FD10413,C1304,Tasty Bites,Desserts,217.0,60.0,3.3,Visakhapatnam,Card,Delivered
+FD10414,C1404,Royal Meals,Biryani,511.0,25.0,4.8,Kakinada,UPI,Delivered
+FD10415,C1384,Food Palace,South Indian,462.0,42.0,3.4,Visakhapatnam,Wallet,Delivered
+FD10416,C1392,South Spice,Burger,236.0,68.0,5.0,Visakhapatnam,Card,Delivered
+FD10417,C1135,Royal Meals,South Indian,1298.0,55.0,3.7,Tirupati,Wallet,Delivered
+FD10418,C1195,South Spice,South Indian,1412.0,37.0,2.9,Guntur,Wallet,Delivered
+FD10419,C1401,Spice Hub,Pizza,1057.0,59.0,4.7,Guntur,Wallet,Delivered
+FD10420,C1128,Royal Meals,Biryani,118.0,37.0,3.7,Vijayawada,UPI,Delivered
+FD10421,C1033,Tasty Bites,Chinese,294.0,64.0,4.3,Kakinada,Cash,Delivered
+FD10422,C1176,Cafe Delight,Desserts,429.0,42.0,5.0,Hyderabad,Wallet,Delivered
+FD10423,C1460,Biryani House,Desserts,274.0,57.0,2.6,Vijayawada,Cash,Cancelled
+FD10424,C1443,Pizza Point,Biryani,1101.0,61.0,2.7,Vijayawada,Cash,Delivered
+FD10425,C1371,Pizza Point,Chinese,548.0,40.0,4.3,Vijayawada,Card,Delivered
+FD10426,C1470,Biryani House,Desserts,1045.0,39.0,3.2,Vijayawada,Wallet,Delivered
+FD10427,C1375,Fresh Bowl,Biryani,1477.0,68.0,3.0,Guntur,Wallet,Delivered
+FD10428,C1022,Spice Hub,Desserts,240.0,43.0,2.6,Hyderabad,Wallet,Delivered
+FD10429,C1238,South Spice,South Indian,857.0,33.0,2.6,Vijayawada,Cash,Delivered
+FD10430,C1158,Tasty Bites,Burger,1029.0,47.0,4.4,Guntur,UPI,Cancelled
+FD10431,C1038,Urban Kitchen,Burger,192.0,50.0,2.8,Vijayawada,Cash,Delivered
+FD10432,C1230,Royal Meals,Desserts,338.0,28.0,3.7,Visakhapatnam,Wallet,Cancelled
+FD10433,C1365,Spice Hub,Pizza,304.0,28.0,4.0,Vijayawada,Wallet,Delivered
+FD10434,C1051,Royal Meals,Chinese,659.0,49.0,3.6,Kakinada,Wallet,Delivered
+FD10435,C1438,Tasty Bites,Chinese,344.0,44.0,2.6,Kakinada,Cash,Cancelled
+FD10436,C1264,Food Palace,Chinese,931.0,42.0,4.5,Vijayawada,Wallet,Delivered
+FD10437,C1283,Food Palace,South Indian,1440.0,31.0,2.5,Tirupati,Card,Delivered
+FD10438,C1027,Spice Hub,Chinese,1024.0,17.0,4.4,Visakhapatnam,Wallet,Delivered
+FD10439,C1226,Cafe Delight,Burger,394.0,30.0,4.7,Hyderabad,UPI,Cancelled
+FD10440,C1277,Tasty Bites,South Indian,739.0,60.0,3.6,Vijayawada,Card,Delivered
+FD10441,C1286,Tasty Bites,Biryani,955.0,44.0,3.8,Hyderabad,Wallet,Delivered
+FD10442,C1097,Biryani House,Chinese,1405.0,66.0,3.7,Visakhapatnam,Card,Delivered
+FD10443,C1284,Cafe Delight,Chinese,116.0,43.0,3.5,Vijayawada,Wallet,Cancelled
+FD10444,C1367,South Spice,Biryani,170.0,59.0,4.7,Tirupati,UPI,Delivered
+FD10445,C1448,South Spice,Chinese,1392.0,29.0,4.7,Guntur,Wallet,Delivered
+FD10446,C1481,Urban Kitchen,Biryani,1448.0,60.0,3.3,Tirupati,Card,Delivered
+FD10447,C1453,Pizza Point,South Indian,404.0,70.0,4.0,Tirupati,UPI,Delivered
+FD10448,C1317,Food Palace,Burger,1130.0,39.0,4.8,Guntur,Cash,Delivered
+FD10449,C1304,South Spice,Biryani,1437.0,65.0,4.9,Guntur,UPI,Delivered
+FD10450,C1147,Cafe Delight,Pizza,916.0,52.0,3.8,Kakinada,UPI,Delivered
+FD10451,C1004,Tasty Bites,Biryani,1226.0,56.0,3.6,Guntur,UPI,Delivered
+FD10452,C1035,South Spice,Chinese,920.0,61.0,3.2,Vijayawada,Card,Cancelled
+FD10453,C1192,Tasty Bites,South Indian,292.0,67.0,4.9,Hyderabad,UPI,Delivered
+FD10454,C1049,South Spice,Desserts,628.0,68.0,2.9,Kakinada,Wallet,Cancelled
+FD10455,C1017,Food Palace,South Indian,270.0,66.0,3.9,Kakinada,UPI,Delivered
+FD10456,C1172,Royal Meals,Desserts,350.0,52.0,3.2,Hyderabad,UPI,Cancelled
+FD10457,C1220,South Spice,Biryani,1330.0,37.0,3.2,Kakinada,Wallet,Delivered
+FD10458,C1158,Cafe Delight,Burger,640.0,39.0,3.5,Guntur,Wallet,Delivered
+FD10459,C1477,South Spice,Pizza,515.0,56.0,5.0,Tirupati,Cash,Cancelled
+FD10460,C1046,Pizza Point,South Indian,893.0,21.0,2.6,Visakhapatnam,UPI,Cancelled
+FD10461,C1373,Food Palace,Chinese,1267.0,36.0,3.9,Guntur,Card,Delivered
+FD10462,C1006,Cafe Delight,Desserts,124.0,31.0,2.7,Tirupati,UPI,Delivered
+FD10463,C1099,Biryani House,Chinese,767.0,32.0,2.9,Tirupati,UPI,Delivered
+FD10464,C1380,Cafe Delight,Burger,1196.0,63.0,3.6,Kakinada,Wallet,Delivered
+FD10465,C1233,Pizza Point,Desserts,731.0,55.0,3.8,Vijayawada,Cash,Delivered
+FD10466,C1037,Royal Meals,South Indian,1216.0,24.0,3.1,Vijayawada,UPI,Delivered
+FD10467,C1280,Food Palace,Biryani,,24.0,3.3,Kakinada,Card,Cancelled
+FD10468,C1349,Biryani House,Chinese,435.0,21.0,2.7,Kakinada,UPI,Delivered
+FD10469,C1497,Pizza Point,Burger,524.0,62.0,3.3,Hyderabad,Card,Delivered
+FD10470,C1302,Pizza Point,South Indian,598.0,64.0,4.9,Hyderabad,Wallet,Delivered
+FD10471,C1181,Spice Hub,South Indian,1487.0,52.0,4.9,Visakhapatnam,Cash,Delivered
+FD10472,C1095,Food Palace,South Indian,1046.0,41.0,3.3,Visakhapatnam,UPI,Delivered
+FD10473,C1099,Cafe Delight,South Indian,729.0,66.0,3.9,Visakhapatnam,Cash,Delivered
+FD10474,C1188,Tasty Bites,Desserts,1322.0,47.0,4.8,Visakhapatnam,UPI,Delivered
+FD10475,C1481,Royal Meals,South Indian,817.0,15.0,2.5,Tirupati,Card,Cancelled
+FD10476,C1116,Tasty Bites,Chinese,438.0,58.0,4.5,Tirupati,Cash,Delivered
+FD10477,C1191,Cafe Delight,Burger,758.0,67.0,4.9,Hyderabad,UPI,Delivered
+FD10478,C1253,Cafe Delight,Desserts,1061.0,48.0,2.7,Vijayawada,Wallet,Delivered
+FD10479,C1469,Food Palace,South Indian,528.0,18.0,2.9,Kakinada,Card,Cancelled
+FD10480,C1416,Cafe Delight,Pizza,998.0,31.0,4.9,Vijayawada,Cash,Delivered
+FD10481,C1471,Spice Hub,Pizza,238.0,18.0,3.8,Guntur,UPI,Delivered
+FD10482,C1161,Biryani House,Burger,1041.0,57.0,2.5,Tirupati,Cash,Delivered
+FD10483,C1256,Cafe Delight,Biryani,641.0,68.0,3.1,Visakhapatnam,UPI,Cancelled
+FD10484,C1323,Tasty Bites,Biryani,156.0,40.0,3.6,Visakhapatnam,Card,Delivered
+FD10485,C1128,Cafe Delight,Desserts,1355.0,18.0,4.2,Guntur,Wallet,Delivered
+FD10486,C1018,Spice Hub,Desserts,757.0,15.0,4.3,Vijayawada,Card,Cancelled
+FD10487,C1281,South Spice,Desserts,534.0,21.0,5.0,Visakhapatnam,Cash,Delivered
+FD10488,C1490,South Spice,Biryani,483.0,44.0,3.2,Vijayawada,Cash,Delivered
+FD10489,C1223,Pizza Point,Pizza,659.0,64.0,3.8,Kakinada,UPI,Delivered
+FD10490,C1054,Royal Meals,Biryani,293.0,23.0,3.8,Guntur,Card,Delivered
+FD10491,C1058,Urban Kitchen,Chinese,633.0,49.0,3.5,Vijayawada,UPI,Delivered
+FD10492,C1323,Biryani House,South Indian,617.0,22.0,2.9,Kakinada,Card,Delivered
+FD10493,C1360,Fresh Bowl,Desserts,815.0,38.0,4.9,Vijayawada,Cash,Delivered
+FD10494,C1174,Pizza Point,Pizza,850.0,33.0,4.6,Vijayawada,UPI,Delivered
+FD10495,C1280,Royal Meals,Burger,284.0,50.0,3.7,Visakhapatnam,UPI,Cancelled
+FD10496,C1114,South Spice,Burger,391.0,64.0,4.0,Hyderabad,Card,Delivered
+FD10497,C1288,Tasty Bites,South Indian,1458.0,66.0,3.1,Tirupati,Wallet,Delivered
+FD10498,C1431,Fresh Bowl,Pizza,831.0,57.0,3.9,Vijayawada,Card,Delivered
+FD10499,C1342,Royal Meals,Biryani,215.0,41.0,4.2,Vijayawada,Wallet,Delivered
+FD10500,C1151,Royal Meals,Biryani,924.0,46.0,3.8,Vijayawada,Card,Delivered
+FD10501,C1450,Pizza Point,Chinese,1172.0,28.0,5.0,Hyderabad,Cash,Delivered
+FD10502,C1127,Fresh Bowl,Chinese,784.0,32.0,4.0,Kakinada,UPI,Cancelled
+FD10503,C1155,Food Palace,Biryani,181.0,42.0,3.4,Guntur,Card,Delivered
+FD10504,C1490,Urban Kitchen,Burger,933.0,43.0,4.4,Visakhapatnam,Cash,Cancelled
+FD10505,C1386,Food Palace,Desserts,432.0,30.0,2.9,Hyderabad,Card,Refunded
+FD10506,C1474,Fresh Bowl,Burger,656.0,49.0,3.5,Kakinada,UPI,Delivered
+FD10507,C1273,Food Palace,Chinese,434.0,61.0,3.4,Vijayawada,Card,Delivered
+FD10508,C1104,Spice Hub,South Indian,631.0,45.0,3.6,Kakinada,Wallet,Refunded
+FD10509,C1417,South Spice,Biryani,320.0,18.0,4.5,Hyderabad,UPI,Refunded
+FD10510,C1393,,Chinese,734.0,51.0,3.7,Hyderabad,Wallet,Delivered
+FD10511,C1299,Cafe Delight,Chinese,422.0,31.0,4.5,Hyderabad,Cash,Delivered
+FD10512,C1246,Food Palace,Desserts,102.0,53.0,3.9,Guntur,Cash,Delivered
+FD10513,C1176,Cafe Delight,Biryani,305.0,62.0,3.4,Tirupati,Card,Refunded
+FD10514,C1039,Tasty Bites,Desserts,139.0,60.0,4.5,Visakhapatnam,Wallet,Delivered
+FD10515,C1477,Biryani House,Biryani,158.0,40.0,3.1,Guntur,Wallet,Delivered
+FD10516,C1170,Tasty Bites,Desserts,1050.0,62.0,3.1,Guntur,UPI,Cancelled
+FD10517,C1247,Fresh Bowl,Burger,673.0,53.0,3.8,Tirupati,Wallet,Delivered
+FD10518,C1026,Royal Meals,South Indian,743.0,55.0,3.2,Guntur,Wallet,Delivered
+FD10519,C1355,South Spice,South Indian,942.0,18.0,2.5,Hyderabad,UPI,Delivered
+FD10520,C1306,Food Palace,Biryani,1245.0,44.0,4.1,Hyderabad,UPI,Cancelled
+FD10521,C1409,Pizza Point,Pizza,718.0,44.0,3.8,Kakinada,Wallet,Delivered
+FD10522,C1408,Biryani House,Chinese,195.0,36.0,3.6,Vijayawada,Card,Delivered
+FD10523,C1013,Urban Kitchen,Chinese,1358.0,25.0,4.9,Guntur,UPI,Delivered
+FD10524,C1316,Urban Kitchen,Biryani,997.0,16.0,3.9,Vijayawada,UPI,Delivered
+FD10525,C1391,Urban Kitchen,Desserts,1185.0,58.0,4.7,Visakhapatnam,Wallet,Delivered
+FD10526,C1313,Food Palace,Pizza,1379.0,26.0,2.8,Hyderabad,Wallet,Delivered
+FD10527,C1036,Urban Kitchen,Burger,660.0,44.0,3.9,Kakinada,UPI,Delivered
+FD10528,C1173,Spice Hub,Desserts,1004.0,50.0,4.7,Visakhapatnam,Wallet,Cancelled
+FD10529,C1020,Biryani House,Desserts,447.0,32.0,4.0,Kakinada,UPI,Cancelled
+FD10530,C1321,Spice Hub,Biryani,770.0,40.0,4.3,Tirupati,Card,Delivered
+FD10531,C1264,Royal Meals,Biryani,1247.0,67.0,3.4,Hyderabad,Card,Delivered
+FD10532,C1494,Biryani House,Chinese,416.0,21.0,2.7,Visakhapatnam,UPI,Delivered
+FD10533,C1400,Spice Hub,Biryani,818.0,15.0,3.6,Tirupati,UPI,Cancelled
+FD10534,C1142,Biryani House,Biryani,1171.0,40.0,3.5,Visakhapatnam,Cash,Delivered
+FD10535,C1460,Royal Meals,Biryani,1259.0,37.0,4.7,Kakinada,Cash,Delivered
+FD10536,C1371,Cafe Delight,Chinese,1324.0,40.0,3.1,Tirupati,Wallet,Delivered
+FD10537,C1471,Food Palace,Burger,349.0,59.0,4.9,Tirupati,Wallet,Delivered
+FD10538,C1143,Food Palace,Burger,413.0,20.0,4.9,Hyderabad,UPI,Delivered
+FD10539,C1092,Urban Kitchen,Biryani,1491.0,20.0,3.1,Vijayawada,UPI,Delivered
+FD10540,C1354,Tasty Bites,Chinese,906.0,58.0,3.4,Kakinada,Cash,Delivered
+FD10541,C1322,Urban Kitchen,Burger,1437.0,22.0,4.7,Kakinada,Cash,Delivered
+FD10542,C1288,Fresh Bowl,Desserts,1478.0,38.0,4.9,Tirupati,UPI,Delivered
+FD10543,C1215,Spice Hub,Burger,584.0,36.0,3.6,Tirupati,Card,Delivered
+FD10544,C1447,Biryani House,Burger,1334.0,33.0,3.3,Hyderabad,Card,Delivered
+FD10545,C1342,Tasty Bites,Chinese,143.0,51.0,3.8,Vijayawada,Wallet,Delivered
+FD10546,C1051,Royal Meals,Desserts,670.0,32.0,4.2,Kakinada,UPI,Delivered
+FD10547,C1153,Fresh Bowl,Chinese,682.0,45.0,3.2,Guntur,UPI,Delivered
+FD10548,C1186,Royal Meals,Biryani,1215.0,51.0,4.3,Guntur,Wallet,Delivered
+FD10549,C1063,Food Palace,South Indian,1388.0,44.0,2.6,Vijayawada,Cash,Delivered
+FD10550,C1190,Food Palace,Burger,994.0,56.0,2.6,Visakhapatnam,Cash,Delivered
+FD10551,C1125,Urban Kitchen,South Indian,319.0,47.0,3.5,Hyderabad,Card,Delivered
+FD10552,C1150,Spice Hub,Chinese,1024.0,24.0,3.4,Vijayawada,UPI,Cancelled
+FD10553,C1314,Tasty Bites,Chinese,500.0,51.0,3.3,Guntur,Cash,Delivered
+FD10554,C1058,South Spice,Chinese,826.0,26.0,3.7,Tirupati,Card,Delivered
+FD10555,C1342,Fresh Bowl,South Indian,1090.0,68.0,3.3,Guntur,Card,Delivered
+FD10556,C1305,Fresh Bowl,Chinese,,44.0,3.0,Tirupati,Card,Delivered
+FD10557,C1180,Urban Kitchen,Biryani,957.0,41.0,3.3,Hyderabad,Cash,Delivered
+FD10558,C1170,Food Palace,Chinese,903.0,53.0,4.9,Tirupati,Cash,Delivered
+FD10559,C1326,Urban Kitchen,Pizza,589.0,23.0,3.5,Vijayawada,UPI,Delivered
+FD10560,C1271,Biryani House,South Indian,1037.0,68.0,3.6,Tirupati,UPI,Delivered
+FD10561,C1054,Tasty Bites,Pizza,943.0,35.0,3.9,Visakhapatnam,Card,Delivered
+FD10562,C1491,Spice Hub,Chinese,1392.0,26.0,5.0,Vijayawada,Card,Cancelled
+FD10563,C1444,Cafe Delight,Biryani,366.0,69.0,3.1,Hyderabad,Cash,Refunded
+FD10564,C1101,Pizza Point,Burger,153.0,43.0,4.2,Vijayawada,Cash,Delivered
+FD10565,C1481,Pizza Point,Desserts,627.0,47.0,4.3,Visakhapatnam,UPI,Delivered
+FD10566,C1264,Urban Kitchen,Desserts,715.0,57.0,4.0,Hyderabad,UPI,Delivered
+FD10567,C1053,Biryani House,Chinese,1182.0,67.0,2.7,Guntur,Wallet,Delivered
+FD10568,C1060,Tasty Bites,Biryani,1163.0,29.0,4.2,Visakhapatnam,UPI,Delivered
+FD10569,C1492,South Spice,South Indian,1360.0,16.0,2.7,Hyderabad,Cash,Delivered
+FD10570,C1108,Pizza Point,Pizza,1054.0,66.0,4.0,Tirupati,Card,Delivered
+FD10571,C1005,Tasty Bites,Pizza,485.0,53.0,4.3,Vijayawada,Wallet,Delivered
+FD10572,C1103,Spice Hub,Pizza,833.0,67.0,3.0,Hyderabad,UPI,Delivered
+FD10573,C1196,Royal Meals,South Indian,815.0,58.0,4.6,Vijayawada,UPI,Delivered
+FD10574,C1262,Biryani House,Desserts,749.0,68.0,2.6,Tirupati,Cash,Cancelled
+FD10575,C1365,Food Palace,Biryani,399.0,32.0,4.6,Hyderabad,Wallet,Delivered
+FD10576,C1480,Tasty Bites,South Indian,494.0,17.0,3.7,Guntur,UPI,Delivered
+FD10577,C1372,Spice Hub,Pizza,1330.0,21.0,3.0,Visakhapatnam,Card,Delivered
+FD10578,C1350,South Spice,Chinese,1459.0,57.0,2.8,Hyderabad,Cash,Delivered
+FD10579,C1047,Cafe Delight,Burger,692.0,32.0,4.9,Tirupati,Wallet,Delivered
+FD10580,C1355,Food Palace,South Indian,613.0,58.0,2.7,Hyderabad,UPI,Delivered
+FD10581,C1311,Cafe Delight,South Indian,1301.0,52.0,3.0,Vijayawada,UPI,Delivered
+FD10582,C1424,South Spice,Biryani,495.0,51.0,3.4,Kakinada,Wallet,Delivered
+FD10583,C1308,Spice Hub,Biryani,470.0,47.0,4.1,Hyderabad,Cash,Delivered
+FD10584,C1144,Pizza Point,South Indian,957.0,58.0,3.9,Guntur,Wallet,Delivered
+FD10585,C1269,Cafe Delight,Pizza,890.0,45.0,2.8,Hyderabad,Wallet,Delivered
+FD10586,C1370,Food Palace,Burger,757.0,25.0,3.2,Visakhapatnam,Cash,Delivered
+FD10587,C1124,Urban Kitchen,Biryani,1441.0,18.0,3.1,Hyderabad,UPI,Delivered
+FD10588,C1106,Fresh Bowl,Pizza,835.0,32.0,3.0,Kakinada,Card,Delivered
+FD10589,C1158,Tasty Bites,Chinese,1492.0,18.0,3.5,Vijayawada,Cash,Refunded
+FD10590,C1147,Pizza Point,Biryani,483.0,63.0,4.3,Hyderabad,Card,Delivered
+FD10591,C1145,Cafe Delight,Pizza,161.0,48.0,3.0,Guntur,UPI,Delivered
+FD10592,C1120,Royal Meals,Pizza,604.0,43.0,3.4,Tirupati,Wallet,Delivered
+FD10593,C1319,Tasty Bites,Burger,338.0,38.0,3.5,Hyderabad,Card,Cancelled
+FD10594,C1275,Urban Kitchen,Burger,294.0,36.0,4.9,Hyderabad,UPI,Cancelled
+FD10595,C1092,South Spice,Chinese,777.0,16.0,4.9,Visakhapatnam,UPI,Delivered
+FD10596,C1058,Fresh Bowl,Pizza,1345.0,58.0,4.5,Guntur,Wallet,Delivered
+FD10597,C1439,Spice Hub,Desserts,160.0,20.0,3.1,Kakinada,Wallet,Delivered
+FD10598,C1346,Urban Kitchen,Pizza,1252.0,56.0,2.7,Tirupati,UPI,Delivered
+FD10599,C1229,Urban Kitchen,Burger,1089.0,39.0,3.3,Vijayawada,UPI,Delivered
+FD10600,C1474,South Spice,Desserts,784.0,69.0,3.2,Hyderabad,Card,Delivered
+FD10601,C1117,Biryani House,Biryani,255.0,35.0,3.8,Kakinada,UPI,Delivered
+FD10602,C1318,South Spice,Biryani,1022.0,69.0,4.4,Tirupati,UPI,Delivered
+FD10603,C1279,Biryani House,South Indian,967.0,30.0,4.6,Vijayawada,Card,Cancelled
+FD10604,C1127,Biryani House,Burger,1002.0,45.0,4.6,Kakinada,Cash,Delivered
+FD10605,C1393,Pizza Point,South Indian,1098.0,28.0,3.4,Guntur,Card,Delivered
+FD10606,C1396,Pizza Point,Desserts,1074.0,53.0,4.2,Guntur,Card,Delivered
+FD10607,C1129,Food Palace,Burger,1330.0,42.0,3.3,Tirupati,Wallet,Cancelled
+FD10608,C1058,Cafe Delight,Chinese,487.0,46.0,2.7,Vijayawada,Card,Cancelled
+FD10609,C1122,Cafe Delight,Pizza,986.0,42.0,4.3,Guntur,UPI,Delivered
+FD10610,C1001,Spice Hub,Chinese,937.0,65.0,2.5,Tirupati,UPI,Delivered
+FD10611,C1239,Cafe Delight,Desserts,1463.0,69.0,3.5,Guntur,UPI,Cancelled
+FD10612,C1290,Pizza Point,Burger,439.0,63.0,3.3,Guntur,Cash,Delivered
+FD10613,C1096,Food Palace,Desserts,303.0,23.0,4.2,Kakinada,UPI,Delivered
+FD10614,C1126,Food Palace,Pizza,260.0,59.0,4.4,Kakinada,Cash,Delivered
+FD10615,C1118,Biryani House,Biryani,491.0,36.0,3.3,Guntur,UPI,Delivered
+FD10616,C1048,South Spice,Biryani,868.0,46.0,4.5,Visakhapatnam,Card,Delivered
+FD10617,C1089,Spice Hub,Desserts,674.0,19.0,3.2,Kakinada,Wallet,Cancelled
+FD10618,C1488,Biryani House,South Indian,633.0,37.0,3.6,Vijayawada,UPI,Delivered
+FD10619,C1237,South Spice,Burger,1193.0,19.0,4.3,Tirupati,Cash,Delivered
+FD10620,C1373,Cafe Delight,Burger,992.0,56.0,4.2,Tirupati,Cash,Delivered
+FD10621,C1385,Biryani House,Biryani,504.0,67.0,5.0,Vijayawada,Wallet,Delivered
+FD10622,C1272,Tasty Bites,Chinese,707.0,46.0,3.1,Vijayawada,UPI,Delivered
+FD10623,C1189,Cafe Delight,Pizza,927.0,24.0,4.2,Vijayawada,Card,Delivered
+FD10624,C1487,South Spice,Chinese,1243.0,53.0,4.0,Vijayawada,UPI,Delivered
+FD10625,C1192,Spice Hub,Chinese,789.0,29.0,4.8,Hyderabad,UPI,Delivered
+FD10626,C1447,South Spice,Desserts,1001.0,21.0,2.9,Tirupati,Wallet,Delivered
+FD10627,C1069,Biryani House,Biryani,1340.0,43.0,4.4,Hyderabad,UPI,Delivered
+FD10628,C1278,Biryani House,Biryani,155.0,61.0,3.9,Guntur,Card,Refunded
+FD10629,C1349,Urban Kitchen,Biryani,465.0,17.0,3.2,Guntur,Cash,Delivered
+FD10630,C1247,Spice Hub,Desserts,554.0,33.0,3.7,Tirupati,Wallet,Delivered
+FD10631,C1451,Royal Meals,South Indian,203.0,24.0,3.3,Guntur,Card,Delivered
+FD10632,C1076,Cafe Delight,Chinese,176.0,42.0,3.9,Vijayawada,Cash,Delivered
+FD10633,C1154,Food Palace,Desserts,329.0,43.0,4.7,Hyderabad,Wallet,Delivered
+FD10634,C1144,Spice Hub,Burger,1381.0,29.0,3.9,Vijayawada,Wallet,Delivered
+FD10635,C1435,Food Palace,Pizza,1387.0,49.0,4.1,Guntur,Cash,Delivered
+FD10636,C1485,Spice Hub,South Indian,430.0,20.0,3.8,Kakinada,Cash,Delivered
+FD10637,C1086,Spice Hub,Burger,1305.0,26.0,2.6,Hyderabad,Card,Delivered
+FD10638,C1185,South Spice,Chinese,992.0,61.0,3.1,Vijayawada,UPI,Delivered
+FD10639,C1285,Spice Hub,Biryani,787.0,52.0,3.7,Tirupati,UPI,Delivered
+FD10640,C1462,Urban Kitchen,Chinese,126.0,27.0,3.3,Vijayawada,UPI,Delivered
+FD10641,C1220,Royal Meals,Desserts,1399.0,43.0,3.0,Kakinada,UPI,Delivered
+FD10642,C1069,Biryani House,Pizza,398.0,33.0,3.8,Guntur,UPI,Delivered
+FD10643,C1047,Fresh Bowl,Desserts,1056.0,17.0,3.3,Hyderabad,Card,Delivered
+FD10644,C1497,Food Palace,South Indian,898.0,22.0,3.1,Tirupati,Wallet,Delivered
+FD10645,C1094,Biryani House,South Indian,1214.0,22.0,3.7,Hyderabad,Card,Delivered
+FD10646,C1238,Fresh Bowl,Pizza,579.0,69.0,2.8,Tirupati,Card,Delivered
+FD10647,C1446,Royal Meals,Burger,672.0,34.0,4.8,Hyderabad,Card,Refunded
+FD10648,C1500,Royal Meals,Burger,,61.0,4.7,Guntur,Wallet,Cancelled
+FD10649,C1453,Food Palace,South Indian,464.0,18.0,4.3,Tirupati,Card,Delivered
+FD10650,C1204,Food Palace,South Indian,958.0,65.0,2.8,Visakhapatnam,Card,Delivered
+FD10651,C1400,Royal Meals,Biryani,450.0,35.0,4.4,Hyderabad,Wallet,Delivered
+FD10652,C1218,Fresh Bowl,Burger,352.0,17.0,4.5,Hyderabad,Card,Delivered
+FD10653,C1474,Spice Hub,Pizza,880.0,59.0,4.4,Vijayawada,UPI,Delivered
+FD10654,C1432,Cafe Delight,Burger,902.0,22.0,2.8,Tirupati,Cash,Delivered
+FD10655,C1341,Tasty Bites,Biryani,1111.0,37.0,4.1,Kakinada,Card,Delivered
+FD10656,C1039,Biryani House,Desserts,558.0,30.0,4.6,Visakhapatnam,Cash,Cancelled
+FD10657,C1100,South Spice,South Indian,1016.0,27.0,3.9,Guntur,Card,Delivered
+FD10658,C1289,Biryani House,South Indian,598.0,17.0,4.1,Vijayawada,Card,Cancelled
+FD10659,C1254,South Spice,Biryani,1049.0,62.0,3.6,Visakhapatnam,UPI,Delivered
+FD10660,C1222,Fresh Bowl,Pizza,607.0,23.0,3.8,Tirupati,Wallet,Delivered
+FD10661,C1357,South Spice,South Indian,1427.0,28.0,2.6,Visakhapatnam,Cash,Delivered
+FD10662,C1023,Food Palace,Chinese,600.0,27.0,4.1,Hyderabad,Wallet,Delivered
+FD10663,C1250,Cafe Delight,South Indian,902.0,67.0,2.7,Hyderabad,UPI,Delivered
+FD10664,C1010,Cafe Delight,Chinese,697.0,21.0,3.6,Vijayawada,UPI,Delivered
+FD10665,C1246,Food Palace,Biryani,265.0,29.0,3.2,Tirupati,Cash,Delivered
+FD10666,C1325,Urban Kitchen,Biryani,561.0,21.0,3.9,Tirupati,Wallet,Delivered
+FD10667,C1100,Fresh Bowl,South Indian,1019.0,52.0,,Visakhapatnam,UPI,Refunded
+FD10668,C1290,Urban Kitchen,Burger,213.0,48.0,4.2,Vijayawada,Card,Delivered
+FD10669,C1180,Urban Kitchen,Chinese,1091.0,55.0,4.5,Tirupati,Card,Refunded
+FD10670,C1223,Biryani House,Pizza,1479.0,36.0,2.9,Kakinada,Card,Delivered
+FD10671,C1394,Royal Meals,South Indian,306.0,38.0,2.8,Kakinada,Wallet,Delivered
+FD10672,C1250,Biryani House,Pizza,1358.0,63.0,2.9,Hyderabad,Card,Delivered
+FD10673,C1147,Royal Meals,South Indian,1478.0,51.0,4.7,Visakhapatnam,Card,Delivered
+FD10674,C1442,Tasty Bites,Burger,614.0,58.0,3.8,Guntur,UPI,Cancelled
+FD10675,C1096,South Spice,Burger,1331.0,15.0,3.7,Hyderabad,UPI,Delivered
+FD10676,C1257,Royal Meals,Burger,808.0,24.0,2.8,Vijayawada,Card,Delivered
+FD10677,C1325,Food Palace,Desserts,1248.0,57.0,4.1,Tirupati,Card,Delivered
+FD10678,C1493,Biryani House,Burger,237.0,30.0,4.7,Hyderabad,UPI,Delivered
+FD10679,C1004,Fresh Bowl,Biryani,438.0,60.0,4.6,Guntur,Cash,Delivered
+FD10680,C1016,South Spice,Biryani,636.0,22.0,4.1,Guntur,Wallet,Delivered
+FD10681,C1280,Tasty Bites,Desserts,167.0,70.0,2.7,Kakinada,Wallet,Delivered
+FD10682,C1336,Royal Meals,Chinese,482.0,63.0,2.8,Vijayawada,UPI,Delivered
+FD10683,C1247,Tasty Bites,Pizza,118.0,39.0,2.6,Hyderabad,Wallet,Cancelled
+FD10684,C1258,Fresh Bowl,South Indian,782.0,64.0,3.1,Visakhapatnam,UPI,Delivered
+FD10685,C1497,Urban Kitchen,South Indian,173.0,26.0,2.8,Hyderabad,UPI,Delivered
+FD10686,C1476,Cafe Delight,Desserts,672.0,39.0,3.2,Kakinada,UPI,Delivered
+FD10687,C1384,Fresh Bowl,Biryani,1038.0,31.0,3.5,Guntur,UPI,Delivered
+FD10688,C1160,Pizza Point,South Indian,1399.0,40.0,4.9,Vijayawada,Cash,Delivered
+FD10689,C1475,Fresh Bowl,Biryani,1171.0,60.0,4.0,Vijayawada,Card,Delivered
+FD10690,C1340,Tasty Bites,Chinese,310.0,62.0,4.6,Visakhapatnam,Card,Delivered
+FD10691,C1152,Food Palace,,954.0,28.0,4.3,Vijayawada,Cash,Delivered
+FD10692,C1396,Biryani House,Chinese,750.0,55.0,2.8,Kakinada,Wallet,Delivered
+FD10693,C1178,Food Palace,Desserts,1093.0,50.0,4.3,Kakinada,Wallet,Delivered
+FD10694,C1163,Tasty Bites,Burger,794.0,37.0,3.2,Kakinada,Card,Delivered
+FD10695,C1380,Biryani House,Burger,639.0,57.0,4.1,Vijayawada,Wallet,Delivered
+FD10696,C1033,Pizza Point,Burger,1314.0,20.0,3.4,Vijayawada,Card,Refunded
+FD10697,C1417,Cafe Delight,Chinese,1438.0,61.0,5.0,Kakinada,Card,Delivered
+FD10698,C1445,South Spice,South Indian,1000.0,19.0,3.2,Vijayawada,Cash,Cancelled
+FD10699,C1179,Tasty Bites,Pizza,879.0,57.0,3.2,Vijayawada,Wallet,Delivered
+FD10700,C1427,Royal Meals,Burger,1236.0,39.0,4.8,Guntur,Cash,Delivered
+FD10701,C1101,Tasty Bites,Desserts,269.0,32.0,2.6,Hyderabad,Card,Delivered
+FD10702,C1268,Tasty Bites,Desserts,1137.0,27.0,4.2,Tirupati,Card,Delivered
+FD10703,C1323,Biryani House,Burger,387.0,57.0,4.3,Vijayawada,Card,Delivered
+FD10704,C1065,Spice Hub,Burger,288.0,28.0,4.6,Tirupati,UPI,Delivered
+FD10705,C1417,Fresh Bowl,Pizza,1013.0,42.0,4.9,Tirupati,UPI,Cancelled
+FD10706,C1168,Spice Hub,Burger,1278.0,32.0,4.9,Guntur,UPI,Delivered
+FD10707,C1330,Pizza Point,Pizza,793.0,,2.7,Vijayawada,Cash,Delivered
+FD10708,C1043,Royal Meals,Desserts,987.0,65.0,4.6,Kakinada,Card,Delivered
+FD10709,C1044,Cafe Delight,Burger,570.0,70.0,4.1,Tirupati,Wallet,Delivered
+FD10710,C1285,Urban Kitchen,Chinese,1198.0,41.0,4.1,Vijayawada,Cash,Delivered
+FD10711,C1397,Pizza Point,Chinese,376.0,46.0,2.8,Visakhapatnam,Cash,Delivered
+FD10712,C1012,Urban Kitchen,Desserts,1039.0,61.0,4.1,Kakinada,Cash,Delivered
+FD10713,C1095,Urban Kitchen,Pizza,1466.0,23.0,5.0,Visakhapatnam,Wallet,Delivered
+FD10714,C1302,Cafe Delight,Chinese,670.0,54.0,4.8,Visakhapatnam,Card,Refunded
+FD10715,C1386,Food Palace,Pizza,956.0,46.0,3.6,Tirupati,UPI,Delivered
+FD10716,C1253,Spice Hub,Chinese,1100.0,34.0,2.6,Visakhapatnam,Card,Delivered
+FD10717,C1499,Tasty Bites,Chinese,1305.0,42.0,3.4,Guntur,Card,Cancelled
+FD10718,C1242,South Spice,Pizza,557.0,47.0,4.6,Guntur,Cash,Delivered
+FD10719,C1035,Urban Kitchen,South Indian,1017.0,18.0,4.3,Tirupati,Cash,Delivered
+FD10720,C1215,Royal Meals,Chinese,932.0,60.0,3.6,Vijayawada,Cash,Delivered
+FD10721,C1337,Pizza Point,Burger,1187.0,48.0,2.6,Hyderabad,UPI,Delivered
+FD10722,C1090,Food Palace,Desserts,938.0,62.0,3.6,Vijayawada,UPI,Delivered
+FD10723,C1264,Urban Kitchen,South Indian,1383.0,17.0,3.7,Vijayawada,UPI,Delivered
+FD10724,C1093,Food Palace,Pizza,292.0,40.0,4.8,Vijayawada,Card,Delivered
+FD10725,C1410,Food Palace,South Indian,715.0,22.0,4.1,Vijayawada,Cash,Delivered
+FD10726,C1458,Urban Kitchen,Biryani,505.0,20.0,3.3,Kakinada,Wallet,Delivered
+FD10727,C1090,Biryani House,Biryani,1042.0,30.0,3.8,Hyderabad,Card,Refunded
+FD10728,C1418,Fresh Bowl,Chinese,820.0,38.0,2.7,Kakinada,UPI,Delivered
+FD10729,C1115,Royal Meals,Chinese,192.0,62.0,4.9,Visakhapatnam,Wallet,Delivered
+FD10730,C1105,Tasty Bites,Burger,529.0,53.0,3.4,Vijayawada,Wallet,Delivered
+FD10731,C1391,Tasty Bites,Desserts,753.0,44.0,3.7,Guntur,Cash,Cancelled
+FD10732,C1196,Royal Meals,South Indian,533.0,59.0,3.4,Tirupati,Wallet,Delivered
+FD10733,C1314,Biryani House,Biryani,1235.0,27.0,4.2,Tirupati,UPI,Delivered
+FD10734,C1114,Tasty Bites,Chinese,474.0,19.0,4.2,Kakinada,Cash,Cancelled
+FD10735,C1493,Food Palace,Desserts,1182.0,39.0,4.3,Kakinada,Wallet,Delivered
+FD10736,C1075,Cafe Delight,South Indian,1166.0,34.0,3.2,Guntur,Cash,Cancelled
+FD10737,C1413,Pizza Point,Chinese,306.0,68.0,3.3,Vijayawada,Wallet,Delivered
+FD10738,C1376,Spice Hub,Chinese,879.0,32.0,2.8,Hyderabad,Card,Delivered
+FD10739,C1420,Tasty Bites,Biryani,1419.0,61.0,4.1,Visakhapatnam,Card,Refunded
+FD10740,C1217,Royal Meals,Biryani,1241.0,32.0,2.6,Tirupati,UPI,Delivered
+FD10741,C1277,Cafe Delight,Chinese,631.0,16.0,4.0,Visakhapatnam,Card,Delivered
+FD10742,C1249,Urban Kitchen,Pizza,1345.0,24.0,4.7,Hyderabad,Card,Delivered
+FD10743,C1164,Fresh Bowl,Chinese,265.0,69.0,4.7,Kakinada,Card,Cancelled
+FD10744,C1394,Royal Meals,Desserts,742.0,59.0,3.6,Tirupati,Wallet,Delivered
+FD10745,C1357,Food Palace,Chinese,1279.0,64.0,3.6,Visakhapatnam,Wallet,Delivered
+FD10746,C1457,Fresh Bowl,Burger,1307.0,61.0,2.7,Kakinada,Cash,Delivered
+FD10747,C1408,Pizza Point,Burger,189.0,26.0,4.2,Hyderabad,Wallet,Delivered
+FD10748,C1192,Pizza Point,Burger,1217.0,61.0,4.6,Visakhapatnam,Card,Delivered
+FD10749,C1227,Biryani House,Pizza,112.0,27.0,3.1,Vijayawada,Wallet,Delivered
+FD10750,C1177,South Spice,Pizza,1072.0,64.0,3.6,Kakinada,UPI,Delivered
+FD10751,C1099,Biryani House,Chinese,904.0,61.0,4.6,Hyderabad,Cash,Delivered
+FD10752,C1496,Cafe Delight,Burger,1044.0,69.0,4.7,Visakhapatnam,Cash,Delivered
+FD10753,C1036,Fresh Bowl,Pizza,841.0,25.0,3.1,Vijayawada,Wallet,Delivered
+FD10754,C1466,South Spice,Biryani,975.0,33.0,3.9,Vijayawada,Card,Cancelled
+FD10755,C1497,Urban Kitchen,Chinese,1273.0,49.0,3.0,Hyderabad,Cash,Cancelled
+FD10756,C1487,Food Palace,Desserts,759.0,53.0,2.8,Guntur,UPI,Delivered
+FD10757,C1096,Fresh Bowl,South Indian,1131.0,67.0,4.8,Tirupati,UPI,Delivered
+FD10758,C1152,Biryani House,Chinese,1152.0,40.0,4.6,Hyderabad,Cash,Delivered
+FD10759,C1151,Spice Hub,South Indian,395.0,60.0,4.4,Vijayawada,Card,Delivered
+FD10760,C1190,South Spice,Burger,1085.0,28.0,2.6,Vijayawada,Card,Delivered
+FD10761,C1224,South Spice,South Indian,1025.0,68.0,4.6,Hyderabad,Wallet,Delivered
+FD10762,C1037,Food Palace,Burger,739.0,59.0,3.6,Guntur,Wallet,Delivered
+FD10763,C1268,Tasty Bites,Biryani,439.0,58.0,3.4,Tirupati,Cash,Cancelled
+FD10764,C1369,Pizza Point,South Indian,727.0,38.0,3.9,Visakhapatnam,Wallet,Delivered
+FD10765,C1183,Pizza Point,Chinese,538.0,55.0,2.7,Hyderabad,Wallet,Delivered
+FD10766,C1013,Spice Hub,Burger,1267.0,15.0,4.4,Tirupati,Wallet,Delivered
+FD10767,C1279,Cafe Delight,Chinese,1041.0,65.0,4.0,Tirupati,UPI,Cancelled
+FD10768,C1217,Cafe Delight,Pizza,929.0,57.0,3.0,Kakinada,Wallet,Delivered
+FD10769,C1355,Urban Kitchen,Burger,618.0,69.0,3.0,Vijayawada,Cash,Delivered
+FD10770,C1361,Fresh Bowl,South Indian,1075.0,36.0,3.0,Visakhapatnam,Card,Delivered
+FD10771,C1286,,Burger,1168.0,37.0,2.6,Hyderabad,Wallet,Delivered
+FD10772,C1273,Tasty Bites,Chinese,1054.0,70.0,4.0,Vijayawada,Card,Delivered
+FD10773,C1369,Biryani House,Biryani,1362.0,68.0,4.6,Kakinada,Wallet,Delivered
+FD10774,C1062,Royal Meals,Burger,1051.0,33.0,2.5,Kakinada,Cash,Delivered
+FD10775,C1084,Royal Meals,South Indian,1043.0,32.0,2.6,Vijayawada,UPI,Delivered
+FD10776,C1368,South Spice,Pizza,254.0,26.0,3.9,Guntur,Cash,Delivered
+FD10777,C1217,Spice Hub,Desserts,1304.0,69.0,4.5,Tirupati,UPI,Cancelled
+FD10778,C1342,Pizza Point,Biryani,1338.0,42.0,3.3,Hyderabad,Wallet,Delivered
+FD10779,C1397,Urban Kitchen,Pizza,187.0,42.0,3.4,Hyderabad,Wallet,Delivered
+FD10780,C1187,Cafe Delight,Burger,1379.0,47.0,4.0,Hyderabad,UPI,Delivered
+FD10781,C1019,Spice Hub,Chinese,1196.0,33.0,3.2,Vijayawada,Cash,Delivered
+FD10782,C1177,South Spice,Chinese,1030.0,42.0,2.6,Guntur,Cash,Delivered
+FD10783,C1100,Biryani House,South Indian,278.0,66.0,4.3,Visakhapatnam,UPI,Delivered
+FD10784,C1396,Urban Kitchen,Chinese,311.0,63.0,4.1,Kakinada,Wallet,Cancelled
+FD10785,C1445,South Spice,Biryani,1357.0,51.0,4.0,Vijayawada,UPI,Refunded
+FD10786,C1233,Pizza Point,Chinese,564.0,40.0,4.4,Visakhapatnam,Wallet,Delivered
+FD10787,C1403,Pizza Point,South Indian,1346.0,49.0,4.2,Kakinada,UPI,Delivered
+FD10788,C1076,Pizza Point,Desserts,730.0,48.0,3.0,Kakinada,Wallet,Delivered
+FD10789,C1265,Spice Hub,Burger,924.0,49.0,3.4,Guntur,UPI,Delivered
+FD10790,C1455,Spice Hub,Burger,1387.0,54.0,2.8,Tirupati,Card,Delivered
+FD10791,C1284,Cafe Delight,Chinese,1330.0,30.0,2.8,Hyderabad,Wallet,Delivered
+FD10792,C1206,Cafe Delight,Pizza,706.0,52.0,4.2,Visakhapatnam,Cash,Refunded
+FD10793,C1223,Biryani House,Burger,984.0,27.0,4.6,Vijayawada,UPI,Delivered
+FD10794,C1384,Urban Kitchen,Desserts,465.0,37.0,4.9,Visakhapatnam,Cash,Cancelled
+FD10795,C1052,Food Palace,Chinese,375.0,68.0,4.1,Tirupati,UPI,Delivered
+FD10796,C1339,Food Palace,South Indian,479.0,36.0,3.0,Hyderabad,Cash,Delivered
+FD10797,C1367,South Spice,Desserts,1432.0,30.0,2.8,Visakhapatnam,Cash,Delivered
+FD10798,C1144,Pizza Point,Chinese,1391.0,42.0,4.5,Tirupati,UPI,Delivered
+FD10799,C1373,Urban Kitchen,Desserts,1044.0,62.0,3.9,Vijayawada,UPI,Delivered
+FD10800,C1069,Royal Meals,Burger,1187.0,49.0,4.0,Guntur,Cash,Delivered
+FD10801,C1099,Spice Hub,South Indian,909.0,59.0,4.5,Kakinada,Cash,Delivered
+FD10802,C1396,Fresh Bowl,Chinese,1473.0,60.0,4.3,Vijayawada,Cash,Refunded
+FD10803,C1025,Tasty Bites,Biryani,1024.0,22.0,4.6,Hyderabad,Wallet,Delivered
+FD10804,C1436,Biryani House,South Indian,593.0,58.0,2.6,Kakinada,Wallet,Delivered
+FD10805,C1379,Pizza Point,Biryani,1221.0,69.0,4.4,Vijayawada,Card,Cancelled
+FD10806,C1469,Pizza Point,Desserts,1194.0,69.0,4.6,Vijayawada,Wallet,Delivered
+FD10807,C1484,Pizza Point,Pizza,463.0,36.0,3.2,Vijayawada,Wallet,Delivered
+FD10808,C1053,Spice Hub,South Indian,669.0,35.0,4.1,Vijayawada,UPI,Delivered
+FD10809,C1151,Spice Hub,Desserts,862.0,40.0,3.3,Kakinada,Card,Delivered
+FD10810,C1144,Tasty Bites,Biryani,375.0,54.0,4.9,Hyderabad,Card,Cancelled
+FD10811,C1057,Royal Meals,Burger,149.0,35.0,2.6,Tirupati,Wallet,Delivered
+FD10812,C1039,Urban Kitchen,Burger,1481.0,39.0,3.9,Visakhapatnam,UPI,Delivered
+FD10813,C1109,Pizza Point,Pizza,827.0,55.0,2.9,Guntur,UPI,Delivered
+FD10814,C1181,Food Palace,South Indian,1005.0,15.0,4.3,Visakhapatnam,Card,Delivered
+FD10815,C1042,Cafe Delight,South Indian,1027.0,20.0,2.9,Visakhapatnam,UPI,Delivered
+FD10816,C1186,Food Palace,South Indian,663.0,37.0,,Guntur,Cash,Cancelled
+FD10817,C1423,South Spice,Desserts,882.0,65.0,3.7,Kakinada,Wallet,Delivered
+FD10818,C1398,Food Palace,Pizza,,37.0,4.8,Hyderabad,Cash,Delivered
+FD10819,C1223,,South Indian,1207.0,57.0,3.0,Guntur,Card,Delivered
+FD10820,C1122,Fresh Bowl,Desserts,683.0,,2.9,Hyderabad,Card,Delivered
+FD10821,C1133,Cafe Delight,Burger,1419.0,37.0,4.4,Kakinada,UPI,Delivered
+FD10822,C1163,Food Palace,Biryani,335.0,46.0,3.8,Visakhapatnam,UPI,Refunded
+FD10823,C1215,Fresh Bowl,Desserts,155.0,44.0,4.8,Hyderabad,Card,Delivered
+FD10824,C1221,Biryani House,Burger,459.0,27.0,2.9,Kakinada,Card,Delivered
+FD10825,C1235,Urban Kitchen,Burger,209.0,57.0,4.1,Kakinada,Cash,Delivered
+FD10826,C1331,Fresh Bowl,Biryani,291.0,32.0,3.1,Tirupati,Cash,Delivered
+FD10827,C1146,Urban Kitchen,Burger,1003.0,37.0,2.9,Guntur,UPI,Delivered
+FD10828,C1239,Food Palace,,1216.0,29.0,4.2,Tirupati,Cash,Delivered
+FD10829,C1076,Royal Meals,Biryani,961.0,47.0,4.0,Visakhapatnam,UPI,Delivered
+FD10830,C1009,Fresh Bowl,Burger,667.0,35.0,4.4,Guntur,UPI,Cancelled
+FD10831,C1074,Cafe Delight,Chinese,1183.0,53.0,3.3,Visakhapatnam,Wallet,Delivered
+FD10832,C1442,Food Palace,Desserts,749.0,37.0,3.6,Tirupati,UPI,Delivered
+FD10833,C1492,Pizza Point,Burger,138.0,41.0,3.5,Kakinada,Cash,Delivered
+FD10834,C1401,Spice Hub,Pizza,1172.0,59.0,5.0,Visakhapatnam,Card,Delivered
+FD10835,C1253,Fresh Bowl,South Indian,736.0,58.0,3.2,Guntur,Card,Cancelled
+FD10836,C1230,Cafe Delight,Burger,1136.0,32.0,3.2,Guntur,Cash,Cancelled
+FD10837,C1007,Biryani House,South Indian,135.0,38.0,3.4,Visakhapatnam,Card,Delivered
+FD10838,C1174,Pizza Point,Chinese,200.0,65.0,3.9,Guntur,UPI,Cancelled
+FD10839,C1141,Biryani House,Burger,1209.0,61.0,3.1,Kakinada,Card,Delivered
+FD10840,C1168,Food Palace,Biryani,1346.0,54.0,4.8,Kakinada,Cash,Refunded
+FD10841,C1170,Spice Hub,South Indian,1461.0,65.0,3.2,Guntur,Card,Delivered
+FD10842,C1393,Fresh Bowl,Chinese,265.0,56.0,4.7,Visakhapatnam,UPI,Delivered
+FD10843,C1434,Fresh Bowl,Biryani,482.0,21.0,2.8,Tirupati,UPI,Delivered
+FD10844,C1283,Royal Meals,Biryani,1499.0,64.0,4.1,Guntur,Cash,Cancelled
+FD10845,C1122,Royal Meals,Biryani,889.0,62.0,4.8,Guntur,Cash,Delivered
+FD10846,C1194,Food Palace,Biryani,130.0,34.0,2.9,Guntur,Cash,Delivered
+FD10847,C1005,Food Palace,Burger,1498.0,41.0,4.9,Guntur,Wallet,Delivered
+FD10848,C1029,Spice Hub,Desserts,110.0,20.0,3.6,Visakhapatnam,Wallet,Delivered
+FD10849,C1165,Royal Meals,Burger,1425.0,41.0,4.9,Tirupati,UPI,Delivered
+FD10850,C1422,Cafe Delight,Burger,195.0,23.0,4.2,Tirupati,Wallet,Cancelled
+FD10851,C1339,Cafe Delight,Chinese,1313.0,67.0,3.3,Hyderabad,Wallet,Delivered
+FD10852,C1136,Spice Hub,Chinese,552.0,59.0,3.0,Guntur,Card,Cancelled
+FD10853,C1496,Cafe Delight,Desserts,291.0,45.0,3.3,Guntur,Wallet,Delivered
+FD10854,C1365,South Spice,Chinese,585.0,35.0,2.7,Hyderabad,Card,Delivered
+FD10855,C1321,Urban Kitchen,Pizza,1389.0,40.0,2.9,Tirupati,Cash,Delivered
+FD10856,C1342,Spice Hub,Desserts,1251.0,54.0,2.8,Vijayawada,Card,Delivered
+FD10857,C1500,Spice Hub,Chinese,337.0,62.0,3.6,Kakinada,Card,Delivered
+FD10858,C1145,Tasty Bites,Desserts,1478.0,59.0,4.5,Vijayawada,Cash,Delivered
+FD10859,C1327,Pizza Point,Burger,1235.0,27.0,2.9,Tirupati,Cash,Delivered
+FD10860,C1217,Pizza Point,Burger,1466.0,63.0,2.8,Guntur,UPI,Delivered
+FD10861,C1301,South Spice,Desserts,1268.0,37.0,4.1,Vijayawada,UPI,Delivered
+FD10862,C1132,Royal Meals,Pizza,1188.0,34.0,3.0,Visakhapatnam,UPI,Delivered
+FD10863,C1292,Food Palace,Pizza,1370.0,51.0,2.7,Visakhapatnam,UPI,Delivered
+FD10864,C1070,Food Palace,Desserts,834.0,68.0,2.9,Hyderabad,Card,Delivered
+FD10865,C1252,Biryani House,Chinese,1090.0,67.0,4.8,Tirupati,Card,Delivered
+FD10866,C1415,South Spice,South Indian,924.0,42.0,4.6,Tirupati,UPI,Delivered
+FD10867,C1275,Spice Hub,Pizza,205.0,31.0,3.4,Vijayawada,Wallet,Delivered
+FD10868,C1445,South Spice,,280.0,42.0,4.1,Guntur,UPI,Delivered
+FD10869,C1364,South Spice,Burger,283.0,55.0,3.8,Tirupati,Wallet,Delivered
+FD10870,C1182,South Spice,Desserts,325.0,16.0,4.2,Vijayawada,Cash,Delivered
+FD10871,C1167,Pizza Point,Biryani,876.0,39.0,4.2,Vijayawada,Card,Delivered
+FD10872,C1091,South Spice,Desserts,889.0,64.0,4.1,Kakinada,Card,Delivered
+FD10873,C1202,Urban Kitchen,Burger,1212.0,55.0,3.2,Kakinada,Wallet,Delivered
+FD10874,C1346,Food Palace,Burger,787.0,20.0,2.6,Tirupati,UPI,Delivered
+FD10875,C1019,Biryani House,Pizza,629.0,25.0,3.6,Vijayawada,Card,Delivered
+FD10876,C1039,Urban Kitchen,Pizza,1494.0,52.0,4.7,Hyderabad,Wallet,Delivered
+FD10877,C1126,Biryani House,Biryani,1071.0,20.0,3.9,Hyderabad,Cash,Delivered
+FD10878,C1451,,Desserts,1035.0,59.0,4.6,Kakinada,Cash,Delivered
+FD10879,C1173,Biryani House,Burger,205.0,25.0,5.0,Tirupati,Card,Delivered
+FD10880,C1141,Food Palace,Biryani,1394.0,28.0,2.9,Guntur,UPI,Refunded
+FD10881,C1242,Food Palace,South Indian,930.0,16.0,4.2,Hyderabad,Wallet,Cancelled
+FD10882,C1220,South Spice,Biryani,778.0,54.0,4.2,Hyderabad,Card,Delivered
+FD10883,C1126,Fresh Bowl,Chinese,948.0,17.0,4.9,Kakinada,Cash,Delivered
+FD10884,C1058,Tasty Bites,Biryani,1155.0,69.0,5.0,Kakinada,UPI,Delivered
+FD10885,C1148,Spice Hub,Chinese,492.0,67.0,4.2,Tirupati,Wallet,Delivered
+FD10886,C1476,Cafe Delight,Chinese,139.0,49.0,3.1,Kakinada,Card,Delivered
+FD10887,C1456,Biryani House,Chinese,759.0,47.0,4.5,Visakhapatnam,Wallet,Delivered
+FD10888,C1317,Fresh Bowl,South Indian,1341.0,38.0,2.8,Vijayawada,UPI,Delivered
+FD10889,C1383,South Spice,Biryani,1080.0,33.0,4.5,Hyderabad,UPI,Delivered
+FD10890,C1361,Pizza Point,Biryani,1205.0,32.0,4.8,Visakhapatnam,Cash,Refunded
+FD10891,C1423,Spice Hub,South Indian,944.0,63.0,3.5,Guntur,UPI,Delivered
+FD10892,C1001,Royal Meals,Burger,300.0,66.0,4.1,Visakhapatnam,Card,Refunded
+FD10893,C1387,Fresh Bowl,Pizza,546.0,38.0,3.6,Tirupati,Wallet,Cancelled
+FD10894,C1461,Pizza Point,Biryani,1161.0,59.0,3.6,Guntur,UPI,Delivered
+FD10895,C1348,Tasty Bites,Pizza,1334.0,49.0,3.3,Guntur,UPI,Delivered
+FD10896,C1190,South Spice,Desserts,543.0,15.0,4.4,Kakinada,Card,Delivered
+FD10897,C1191,Spice Hub,Desserts,1450.0,50.0,4.8,Visakhapatnam,Wallet,Delivered
+FD10898,C1369,Spice Hub,South Indian,860.0,39.0,4.9,Tirupati,Wallet,Delivered
+FD10899,C1409,Spice Hub,Desserts,326.0,59.0,2.9,Hyderabad,Cash,Delivered
+FD10900,C1312,Tasty Bites,Desserts,147.0,63.0,4.7,Kakinada,Cash,Delivered
+FD10901,C1417,Biryani House,Burger,1141.0,57.0,4.3,Visakhapatnam,Wallet,Delivered
+FD10902,C1422,Royal Meals,Burger,1011.0,48.0,3.1,Hyderabad,Card,Delivered
+FD10903,C1117,Tasty Bites,Burger,286.0,39.0,2.7,Visakhapatnam,Card,Delivered
+FD10904,C1134,Cafe Delight,Desserts,444.0,30.0,3.2,Kakinada,Cash,Delivered
+FD10905,C1058,Royal Meals,South Indian,323.0,48.0,4.8,Hyderabad,UPI,Delivered
+FD10906,C1044,Food Palace,Chinese,929.0,43.0,4.1,Kakinada,Card,Delivered
+FD10907,C1173,South Spice,Chinese,587.0,33.0,4.3,Visakhapatnam,UPI,Delivered
+FD10908,C1160,Tasty Bites,Pizza,976.0,37.0,3.1,Guntur,Card,Delivered
+FD10909,C1173,Pizza Point,Chinese,948.0,33.0,4.3,Vijayawada,Wallet,Delivered
+FD10910,C1317,Royal Meals,Chinese,1352.0,39.0,2.6,Guntur,Cash,Cancelled
+FD10911,C1303,Cafe Delight,Burger,,30.0,3.4,Kakinada,UPI,Delivered
+FD10912,C1149,Food Palace,Burger,1116.0,68.0,4.1,Kakinada,UPI,Delivered
+FD10913,C1080,Biryani House,Desserts,287.0,65.0,2.9,Kakinada,Wallet,Delivered
+FD10914,C1374,Pizza Point,Pizza,369.0,23.0,4.6,Hyderabad,Card,Cancelled
+FD10915,C1213,Royal Meals,Biryani,409.0,15.0,3.1,Tirupati,UPI,Delivered
+FD10916,C1203,South Spice,Pizza,1255.0,56.0,4.1,Kakinada,Card,Delivered
+FD10917,C1252,Pizza Point,Pizza,1195.0,33.0,3.5,Guntur,Wallet,Delivered
+FD10918,C1229,Food Palace,South Indian,944.0,47.0,4.0,Vijayawada,Cash,Delivered
+FD10919,C1164,Pizza Point,Desserts,1310.0,48.0,2.8,Kakinada,UPI,Delivered
+FD10920,C1227,Urban Kitchen,South Indian,585.0,30.0,2.5,Kakinada,Card,Delivered
+FD10921,C1147,Fresh Bowl,Pizza,1314.0,58.0,4.8,Kakinada,UPI,Refunded
+FD10922,C1020,,Pizza,219.0,54.0,3.2,Hyderabad,Card,Delivered
+FD10923,C1441,Food Palace,Pizza,319.0,69.0,4.5,Kakinada,Card,Delivered
+FD10924,C1402,Pizza Point,Chinese,152.0,32.0,5.0,Guntur,Card,Delivered
+FD10925,C1047,Fresh Bowl,South Indian,1360.0,48.0,3.0,Visakhapatnam,Wallet,Delivered
+FD10926,C1233,Fresh Bowl,Pizza,857.0,39.0,3.2,Tirupati,Cash,Cancelled
+FD10927,C1305,Pizza Point,Burger,837.0,59.0,4.2,Kakinada,UPI,Delivered
+FD10928,C1014,South Spice,Desserts,819.0,20.0,4.9,Hyderabad,Cash,Delivered
+FD10929,C1143,Urban Kitchen,,505.0,35.0,4.8,Guntur,Card,Delivered
+FD10930,C1415,Tasty Bites,Burger,707.0,20.0,3.8,Kakinada,Card,Cancelled
+FD10931,C1001,Urban Kitchen,Desserts,1120.0,46.0,4.5,Hyderabad,Cash,Delivered
+FD10932,C1373,Pizza Point,Chinese,521.0,55.0,2.8,Visakhapatnam,Cash,Delivered
+FD10933,C1054,Biryani House,Chinese,811.0,62.0,4.9,Vijayawada,UPI,Delivered
+FD10934,C1374,Tasty Bites,Biryani,346.0,57.0,4.9,Kakinada,Card,Delivered
+FD10935,C1259,Food Palace,Biryani,171.0,53.0,2.9,Guntur,Cash,Refunded
+FD10936,C1144,Urban Kitchen,Biryani,284.0,45.0,3.2,Hyderabad,Wallet,Delivered
+FD10937,C1471,Pizza Point,Desserts,105.0,56.0,2.8,Hyderabad,Card,Delivered
+FD10938,C1441,Urban Kitchen,Chinese,1329.0,24.0,3.2,Kakinada,Card,Delivered
+FD10939,C1459,Tasty Bites,Chinese,1005.0,44.0,4.5,Hyderabad,UPI,Delivered
+FD10940,C1012,Cafe Delight,Chinese,486.0,66.0,3.4,Vijayawada,Wallet,Delivered
+FD10941,C1330,Royal Meals,Burger,798.0,32.0,2.7,Hyderabad,UPI,Refunded
+FD10942,C1224,Urban Kitchen,Chinese,1199.0,38.0,3.4,Tirupati,Wallet,Delivered
+FD10943,C1272,Food Palace,Burger,1300.0,66.0,5.0,Tirupati,UPI,Cancelled
+FD10944,C1456,Food Palace,Biryani,926.0,23.0,4.1,Hyderabad,Wallet,Delivered
+FD10945,C1358,Spice Hub,Biryani,448.0,45.0,3.5,Kakinada,Wallet,Delivered
+FD10946,C1460,,Desserts,1378.0,29.0,2.9,Tirupati,Wallet,Delivered
+FD10947,C1408,Royal Meals,Biryani,407.0,18.0,5.0,Guntur,Cash,Delivered
+FD10948,C1156,South Spice,Desserts,1468.0,54.0,4.6,Tirupati,Card,Refunded
+FD10949,C1373,Fresh Bowl,Pizza,1250.0,23.0,3.2,Hyderabad,Wallet,Cancelled
+FD10950,C1008,Royal Meals,Pizza,386.0,59.0,2.7,Kakinada,Cash,Delivered
+FD10951,C1122,Fresh Bowl,South Indian,865.0,23.0,2.6,Visakhapatnam,Cash,Delivered
+FD10952,C1348,Fresh Bowl,Desserts,824.0,40.0,2.8,Kakinada,UPI,Delivered
+FD10953,C1164,Cafe Delight,South Indian,861.0,18.0,4.0,Kakinada,Card,Cancelled
+FD10954,C1090,Spice Hub,South Indian,482.0,31.0,4.8,Kakinada,Card,Cancelled
+FD10955,C1136,Royal Meals,Pizza,487.0,30.0,3.7,Guntur,UPI,Delivered
+FD10956,C1186,Royal Meals,Desserts,624.0,29.0,4.6,Vijayawada,Card,Delivered
+FD10957,C1316,Cafe Delight,Pizza,738.0,49.0,3.6,Hyderabad,UPI,Delivered
+FD10958,C1178,Urban Kitchen,South Indian,1037.0,66.0,4.3,Vijayawada,Cash,Delivered
+FD10959,C1028,Urban Kitchen,Desserts,375.0,19.0,4.3,Visakhapatnam,Cash,Delivered
+FD10960,C1220,Urban Kitchen,South Indian,599.0,69.0,2.9,Vijayawada,Wallet,Delivered
+FD10961,C1357,Biryani House,Chinese,816.0,19.0,3.4,Hyderabad,UPI,Delivered
+FD10962,C1041,Fresh Bowl,Desserts,436.0,34.0,4.1,Hyderabad,Cash,Delivered
+FD10963,C1228,Biryani House,Desserts,1031.0,29.0,2.7,Visakhapatnam,Cash,Cancelled
+FD10964,C1192,Spice Hub,South Indian,580.0,32.0,3.4,Hyderabad,UPI,Delivered
+FD10965,C1411,Cafe Delight,Chinese,1010.0,61.0,3.8,Visakhapatnam,Cash,Delivered
+FD10966,C1447,Royal Meals,Burger,1396.0,16.0,5.0,Visakhapatnam,Card,Delivered
+FD10967,C1145,Fresh Bowl,Pizza,1181.0,43.0,3.7,Hyderabad,Cash,Delivered
+FD10968,C1201,Biryani House,South Indian,1451.0,27.0,4.5,Tirupati,UPI,Delivered
+FD10969,C1417,Biryani House,Desserts,208.0,18.0,3.6,Visakhapatnam,Card,Delivered
+FD10970,C1212,Pizza Point,Pizza,,56.0,4.5,Hyderabad,Card,Delivered
+FD10971,C1461,Biryani House,Pizza,427.0,59.0,4.0,Tirupati,Cash,Delivered
+FD10972,C1220,South Spice,Pizza,414.0,24.0,4.7,Visakhapatnam,Wallet,Delivered
+FD10973,C1240,Royal Meals,Burger,1234.0,45.0,3.5,Tirupati,Card,Delivered
+FD10974,C1413,South Spice,Biryani,798.0,55.0,4.0,Guntur,UPI,Delivered
+FD10975,C1397,Royal Meals,South Indian,880.0,22.0,4.1,Kakinada,Wallet,Delivered
+FD10976,C1046,Cafe Delight,Biryani,1352.0,17.0,3.5,Guntur,Wallet,Delivered
+FD10977,C1035,Royal Meals,Biryani,255.0,62.0,2.9,Tirupati,Card,Delivered
+FD10978,C1253,South Spice,Biryani,1395.0,60.0,2.7,Visakhapatnam,Cash,Delivered
+FD10979,C1390,Royal Meals,Pizza,986.0,23.0,2.5,Hyderabad,Wallet,Delivered
+FD10980,C1082,Cafe Delight,Chinese,1125.0,44.0,4.7,Vijayawada,Cash,Refunded
+FD10981,C1371,Cafe Delight,Pizza,857.0,67.0,3.1,Hyderabad,Card,Delivered
+FD10982,C1256,Spice Hub,Pizza,821.0,25.0,3.0,Vijayawada,UPI,Delivered
+FD10983,C1197,Royal Meals,Desserts,1012.0,49.0,4.3,Vijayawada,Wallet,Delivered
+FD10984,C1303,Pizza Point,Desserts,1409.0,51.0,3.3,Visakhapatnam,UPI,Delivered
+FD10985,C1409,Urban Kitchen,Biryani,970.0,56.0,3.8,Tirupati,Cash,Delivered
+FD10986,C1450,Food Palace,Pizza,112.0,27.0,2.9,Hyderabad,Cash,Delivered
+FD10987,C1010,Cafe Delight,Biryani,707.0,50.0,4.9,Tirupati,UPI,Delivered
+FD10988,C1312,Tasty Bites,Desserts,597.0,70.0,4.6,Guntur,Card,Cancelled
+FD10989,C1286,Urban Kitchen,Chinese,337.0,27.0,4.7,Visakhapatnam,Card,Delivered
+FD10990,C1242,Fresh Bowl,South Indian,1217.0,26.0,3.5,Visakhapatnam,Wallet,Delivered
+FD10991,C1251,Royal Meals,Biryani,1461.0,51.0,4.4,Guntur,Wallet,Refunded
+FD10992,C1365,South Spice,Chinese,880.0,24.0,2.9,Hyderabad,Card,Delivered
+FD10993,C1005,Food Palace,South Indian,1294.0,70.0,2.5,Kakinada,Card,Delivered
+FD10994,C1119,Tasty Bites,Burger,705.0,23.0,2.5,Guntur,UPI,Delivered
+FD10995,C1289,Urban Kitchen,Biryani,760.0,66.0,4.0,Hyderabad,Cash,Delivered
+FD10996,C1374,Royal Meals,Biryani,948.0,21.0,3.6,Vijayawada,Cash,Delivered
+FD10997,C1065,Spice Hub,Burger,1035.0,16.0,3.8,Visakhapatnam,Wallet,Delivered
+FD10998,C1146,Fresh Bowl,Burger,727.0,68.0,2.5,Hyderabad,Card,Delivered
+FD10999,C1224,Food Palace,Biryani,242.0,70.0,3.6,Tirupati,UPI,Delivered
+FD11000,C1239,Pizza Point,Burger,1324.0,37.0,4.3,Tirupati,Wallet,Cancelled
+FD11001,C1177,Spice Hub,Pizza,1303.0,53.0,3.6,Visakhapatnam,UPI,Delivered
+FD11002,C1267,Tasty Bites,South Indian,813.0,54.0,4.3,Guntur,Card,Delivered
+FD11003,C1341,Food Palace,South Indian,1487.0,53.0,3.1,Kakinada,Card,Refunded
+FD11004,C1282,Spice Hub,South Indian,578.0,35.0,4.5,Guntur,Card,Delivered
+FD11005,C1063,Fresh Bowl,Pizza,664.0,37.0,4.0,Hyderabad,Cash,Delivered
+FD11006,C1217,Pizza Point,Burger,570.0,43.0,3.0,Guntur,Card,Delivered
+FD11007,C1342,Spice Hub,Chinese,483.0,28.0,3.1,Visakhapatnam,Wallet,Delivered
+FD11008,C1315,Biryani House,Burger,1025.0,40.0,4.1,Hyderabad,Cash,Delivered
+FD11009,C1283,Pizza Point,Biryani,516.0,65.0,4.6,Vijayawada,UPI,Delivered
+FD11010,C1177,Tasty Bites,Desserts,407.0,19.0,3.5,Guntur,Wallet,Refunded
+FD11011,C1461,Fresh Bowl,South Indian,748.0,69.0,3.1,Guntur,Wallet,Refunded
+FD11012,C1417,Royal Meals,Burger,1490.0,45.0,4.7,Kakinada,UPI,Cancelled
+FD11013,C1098,South Spice,Chinese,1124.0,39.0,4.2,Hyderabad,Cash,Cancelled
+FD11014,C1105,South Spice,Biryani,1167.0,45.0,3.6,Tirupati,Wallet,Delivered
+FD11015,C1099,South Spice,Pizza,838.0,64.0,3.7,Guntur,Wallet,Delivered
+FD11016,C1385,Food Palace,Pizza,1221.0,34.0,3.0,Visakhapatnam,Wallet,Cancelled
+FD11017,C1405,Tasty Bites,Chinese,1388.0,58.0,4.1,Guntur,Cash,Delivered
+FD11018,C1496,Fresh Bowl,Biryani,239.0,69.0,3.4,Kakinada,Cash,Refunded
+FD11019,C1311,Pizza Point,South Indian,1360.0,31.0,5.0,Vijayawada,Cash,Delivered
+FD11020,C1006,Food Palace,Burger,1073.0,59.0,3.7,Kakinada,Wallet,Delivered
+FD11021,C1476,Tasty Bites,Biryani,1116.0,16.0,3.7,Guntur,Card,Delivered
+FD11022,C1465,Royal Meals,Pizza,1052.0,39.0,3.9,Tirupati,UPI,Refunded
+FD11023,C1197,Biryani House,Chinese,1003.0,27.0,4.8,Guntur,Card,Delivered
+FD11024,C1351,Fresh Bowl,Chinese,171.0,53.0,4.5,Hyderabad,Cash,Delivered
+FD11025,C1133,South Spice,Burger,1313.0,42.0,3.6,Guntur,Wallet,Delivered
+FD11026,C1358,Spice Hub,Chinese,1391.0,56.0,4.3,Tirupati,Wallet,Delivered
+FD11027,C1259,Fresh Bowl,Chinese,1444.0,69.0,4.0,Hyderabad,Card,Delivered
+FD11028,C1437,Cafe Delight,Biryani,206.0,,3.7,Visakhapatnam,Card,Delivered
+FD11029,C1023,Tasty Bites,South Indian,1355.0,17.0,3.0,Hyderabad,UPI,Delivered
+FD11030,C1485,Urban Kitchen,Burger,1165.0,49.0,3.7,Kakinada,Wallet,Delivered
+FD11031,C1053,Royal Meals,Biryani,982.0,32.0,3.1,Vijayawada,Card,Delivered
+FD11032,C1165,Biryani House,South Indian,238.0,25.0,4.8,Kakinada,UPI,Delivered
+FD11033,C1202,Royal Meals,Biryani,714.0,68.0,3.3,Hyderabad,Cash,Delivered
+FD11034,C1458,Fresh Bowl,Desserts,962.0,34.0,4.9,Visakhapatnam,Card,Delivered
+FD11035,C1083,Urban Kitchen,Biryani,372.0,19.0,3.8,Guntur,Cash,Refunded
+FD11036,C1145,Cafe Delight,Chinese,515.0,33.0,4.1,Hyderabad,UPI,Delivered
+FD11037,C1085,Pizza Point,South Indian,605.0,36.0,3.9,Kakinada,Cash,Delivered
+FD11038,C1078,Spice Hub,Burger,832.0,33.0,2.8,Hyderabad,Wallet,Delivered
+FD11039,C1457,Urban Kitchen,Burger,523.0,61.0,3.4,Hyderabad,Wallet,Delivered
+FD11040,C1366,Tasty Bites,South Indian,489.0,30.0,2.7,Hyderabad,Cash,Delivered
+FD11041,C1001,South Spice,Chinese,441.0,38.0,4.1,Visakhapatnam,Wallet,Delivered
+FD11042,C1051,Cafe Delight,Pizza,1045.0,55.0,3.6,Tirupati,UPI,Delivered
+FD11043,C1173,Spice Hub,Biryani,713.0,18.0,4.4,Tirupati,Wallet,Delivered
+FD11044,C1205,Biryani House,Chinese,592.0,29.0,3.1,Hyderabad,Cash,Delivered
+FD11045,C1260,South Spice,Desserts,291.0,39.0,2.9,Visakhapatnam,Cash,Delivered
+FD11046,C1446,Fresh Bowl,South Indian,598.0,58.0,3.5,Visakhapatnam,Cash,Delivered
+FD11047,C1449,Urban Kitchen,Biryani,921.0,69.0,4.8,Hyderabad,Card,Delivered
+FD11048,C1369,Spice Hub,Burger,1356.0,49.0,4.3,Kakinada,Cash,Delivered
+FD11049,C1488,Food Palace,Pizza,326.0,69.0,3.5,Kakinada,UPI,Refunded
+FD11050,C1288,Pizza Point,Desserts,1494.0,28.0,3.8,Vijayawada,Wallet,Delivered
+FD11051,C1034,Pizza Point,Burger,238.0,63.0,2.7,Hyderabad,Wallet,Delivered
+FD11052,C1348,Cafe Delight,South Indian,955.0,33.0,5.0,Vijayawada,Card,Delivered
+FD11053,C1095,Biryani House,Biryani,916.0,52.0,4.2,Kakinada,Card,Cancelled
+FD11054,C1072,Cafe Delight,South Indian,1272.0,50.0,3.2,Kakinada,UPI,Delivered
+FD11055,C1039,Food Palace,Biryani,1238.0,21.0,4.0,Hyderabad,Cash,Delivered
+FD11056,C1154,Tasty Bites,Chinese,1186.0,44.0,2.8,Vijayawada,Card,Delivered
+FD11057,C1250,Biryani House,Pizza,203.0,33.0,4.9,Vijayawada,Wallet,Refunded
+FD11058,C1162,Royal Meals,Chinese,970.0,63.0,2.9,Hyderabad,Card,Cancelled
+FD11059,C1438,Tasty Bites,Chinese,767.0,39.0,4.1,Vijayawada,Card,Cancelled
+FD11060,C1118,Biryani House,South Indian,372.0,30.0,3.1,Guntur,Cash,Delivered
+FD11061,C1259,Biryani House,Pizza,1129.0,61.0,4.3,Kakinada,Card,Delivered
+FD11062,C1379,Food Palace,Biryani,1270.0,68.0,4.4,Tirupati,UPI,Delivered
+FD11063,C1306,Fresh Bowl,Biryani,283.0,54.0,4.2,Visakhapatnam,Wallet,Delivered
+FD11064,C1268,Food Palace,Desserts,1151.0,65.0,4.0,Vijayawada,Cash,Cancelled
+FD11065,C1449,Biryani House,Burger,1242.0,22.0,4.7,Vijayawada,Wallet,Delivered
+FD11066,C1054,Spice Hub,Desserts,392.0,32.0,2.7,Visakhapatnam,UPI,Delivered
+FD11067,C1236,Tasty Bites,Desserts,1494.0,42.0,3.3,Vijayawada,UPI,Delivered
+FD11068,C1389,Food Palace,Biryani,1367.0,30.0,3.1,Visakhapatnam,Card,Delivered
+FD11069,C1478,Fresh Bowl,South Indian,1341.0,66.0,5.0,Hyderabad,Card,Delivered
+FD11070,C1222,Urban Kitchen,Chinese,276.0,33.0,3.5,Guntur,Card,Delivered
+FD11071,C1251,Cafe Delight,Chinese,1422.0,56.0,4.3,Guntur,Wallet,Delivered
+FD11072,C1313,Biryani House,Chinese,157.0,31.0,4.2,Kakinada,UPI,Delivered
+FD11073,C1401,Royal Meals,Pizza,1392.0,59.0,3.0,Tirupati,Cash,Delivered
+FD11074,C1112,Urban Kitchen,Biryani,407.0,27.0,3.1,Vijayawada,Card,Delivered
+FD11075,C1255,Pizza Point,South Indian,1411.0,21.0,3.2,Tirupati,Wallet,Delivered
+FD11076,C1303,South Spice,Pizza,1076.0,41.0,3.5,Hyderabad,Card,Delivered
+FD11077,C1407,Fresh Bowl,Burger,1228.0,24.0,3.1,Guntur,UPI,Delivered
+FD11078,C1207,Royal Meals,South Indian,1351.0,48.0,2.5,Hyderabad,Cash,Delivered
+FD11079,C1229,South Spice,Desserts,1370.0,,4.7,Hyderabad,UPI,Delivered
+FD11080,C1341,Fresh Bowl,South Indian,799.0,39.0,,Vijayawada,Wallet,Delivered
+FD11081,C1398,Spice Hub,South Indian,182.0,20.0,3.4,Hyderabad,Card,Refunded
+FD11082,C1066,Cafe Delight,Chinese,1309.0,38.0,3.3,Guntur,UPI,Cancelled
+FD11083,C1075,Urban Kitchen,South Indian,351.0,32.0,2.5,Tirupati,Wallet,Cancelled
+FD11084,C1435,Tasty Bites,Desserts,1478.0,37.0,4.2,Guntur,Card,Delivered
+FD11085,C1103,Fresh Bowl,Desserts,895.0,20.0,4.6,Vijayawada,Cash,Refunded
+FD11086,C1422,Tasty Bites,Biryani,996.0,43.0,2.9,Guntur,UPI,Cancelled
+FD11087,C1192,Cafe Delight,South Indian,309.0,39.0,2.9,Visakhapatnam,Card,Cancelled
+FD11088,C1252,Biryani House,Chinese,915.0,69.0,4.5,Tirupati,Card,Delivered
+FD11089,C1226,Pizza Point,South Indian,708.0,31.0,4.0,Visakhapatnam,Card,Delivered
+FD11090,C1294,Urban Kitchen,Burger,546.0,60.0,2.6,Visakhapatnam,Card,Refunded
+FD11091,C1306,Cafe Delight,Burger,559.0,38.0,4.1,Kakinada,UPI,Delivered
+FD11092,C1098,Cafe Delight,Chinese,1067.0,25.0,3.3,Vijayawada,Card,Delivered
+FD11093,C1338,Spice Hub,Biryani,571.0,40.0,3.4,Hyderabad,Wallet,Refunded
+FD11094,C1286,South Spice,Biryani,469.0,65.0,4.4,Visakhapatnam,UPI,Delivered
+FD11095,C1335,Pizza Point,Desserts,999.0,48.0,4.5,Guntur,Card,Delivered
+FD11096,C1347,Urban Kitchen,Desserts,1022.0,42.0,3.5,Hyderabad,UPI,Delivered
+FD11097,C1435,Biryani House,Pizza,236.0,17.0,4.9,Guntur,Wallet,Refunded
+FD11098,C1447,Biryani House,Chinese,466.0,25.0,3.5,Guntur,Wallet,Delivered
+FD11099,C1482,Food Palace,South Indian,1011.0,52.0,4.4,Hyderabad,UPI,Delivered
+FD11100,C1308,Cafe Delight,Chinese,283.0,28.0,3.7,Hyderabad,Card,Delivered
+FD11101,C1249,Fresh Bowl,Pizza,1410.0,65.0,4.7,Guntur,Card,Delivered
+FD11102,C1166,Spice Hub,Desserts,571.0,40.0,4.8,Vijayawada,Wallet,Delivered
+FD11103,C1481,Pizza Point,Chinese,1498.0,62.0,2.7,Tirupati,Card,Cancelled
+FD11104,C1472,Biryani House,Chinese,753.0,35.0,4.8,Kakinada,Wallet,Refunded
+FD11105,C1335,Urban Kitchen,Desserts,848.0,68.0,4.6,Tirupati,Card,Delivered
+FD11106,C1030,Food Palace,Pizza,636.0,70.0,4.5,Vijayawada,Wallet,Delivered
+FD11107,C1247,Urban Kitchen,Desserts,901.0,53.0,3.0,Kakinada,Cash,Delivered
+FD11108,C1106,Spice Hub,Biryani,1373.0,44.0,4.5,Hyderabad,Card,Delivered
+FD11109,C1051,Fresh Bowl,South Indian,1019.0,22.0,4.6,Kakinada,Card,Delivered
+FD11110,C1081,Food Palace,Desserts,609.0,65.0,3.2,Guntur,Card,Cancelled
+FD11111,C1133,Food Palace,Pizza,729.0,34.0,4.9,Tirupati,UPI,Cancelled
+FD11112,C1285,South Spice,Burger,1101.0,62.0,2.6,Kakinada,Card,Delivered
+FD11113,C1388,Pizza Point,Biryani,1196.0,46.0,2.9,Guntur,UPI,Delivered
+FD11114,C1138,Food Palace,Burger,1405.0,36.0,3.8,Vijayawada,UPI,Delivered
+FD11115,C1184,South Spice,Desserts,1015.0,21.0,3.9,Kakinada,Wallet,Delivered
+FD11116,C1401,South Spice,Biryani,1483.0,23.0,4.1,Guntur,UPI,Delivered
+FD11117,C1330,Spice Hub,South Indian,1133.0,59.0,2.5,Vijayawada,UPI,Cancelled
+FD11118,C1273,Tasty Bites,Desserts,1334.0,15.0,4.9,Hyderabad,Cash,Cancelled
+FD11119,C1340,Urban Kitchen,South Indian,251.0,43.0,2.6,Vijayawada,Card,Delivered
+FD11120,C1472,Fresh Bowl,Chinese,1128.0,22.0,2.9,Vijayawada,UPI,Cancelled
+FD11121,C1069,Royal Meals,Burger,1318.0,70.0,2.5,Tirupati,Card,Delivered
+FD11122,C1034,Urban Kitchen,Biryani,1406.0,68.0,3.9,Guntur,UPI,Delivered
+FD11123,C1262,Food Palace,South Indian,563.0,18.0,4.8,Kakinada,Wallet,Delivered
+FD11124,C1053,Fresh Bowl,Pizza,1236.0,49.0,4.2,Tirupati,Cash,Delivered
+FD11125,C1450,Biryani House,South Indian,370.0,17.0,4.6,Visakhapatnam,UPI,Cancelled
+FD11126,C1205,Tasty Bites,Pizza,1286.0,68.0,2.5,Vijayawada,Card,Delivered
+FD11127,C1126,Biryani House,Desserts,559.0,59.0,3.9,Visakhapatnam,Wallet,Delivered
+FD11128,C1235,Biryani House,Biryani,204.0,54.0,3.6,Tirupati,Card,Delivered
+FD11129,C1043,Pizza Point,South Indian,1405.0,21.0,3.7,Guntur,Wallet,Delivered
+FD11130,C1240,Urban Kitchen,South Indian,261.0,41.0,2.7,Tirupati,Cash,Delivered
+FD11131,C1459,Royal Meals,Biryani,450.0,15.0,4.2,Guntur,Wallet,Delivered
+FD11132,C1371,Spice Hub,South Indian,533.0,41.0,3.8,Guntur,Card,Delivered
+FD11133,C1111,Royal Meals,Pizza,951.0,30.0,4.4,Hyderabad,Card,Delivered
+FD11134,C1249,Biryani House,South Indian,239.0,52.0,3.7,Vijayawada,UPI,Delivered
+FD11135,C1151,Food Palace,Burger,1255.0,21.0,2.9,Tirupati,Wallet,Delivered
+FD11136,C1183,Tasty Bites,Desserts,186.0,58.0,4.1,Guntur,Card,Delivered
+FD11137,C1336,Cafe Delight,Chinese,282.0,37.0,2.9,Tirupati,UPI,Delivered
+FD11138,C1095,Royal Meals,Pizza,467.0,55.0,4.7,Tirupati,Cash,Cancelled
+FD11139,C1459,Biryani House,Burger,228.0,25.0,4.0,Guntur,Card,Delivered
+FD11140,C1374,Tasty Bites,Desserts,1369.0,56.0,2.9,Kakinada,UPI,Delivered
+FD11141,C1400,Fresh Bowl,Biryani,769.0,67.0,4.9,Visakhapatnam,Card,Delivered
+FD11142,C1008,Urban Kitchen,Pizza,248.0,47.0,3.8,Vijayawada,Wallet,Delivered
+FD11143,C1388,South Spice,Chinese,1084.0,64.0,2.7,Vijayawada,UPI,Delivered
+FD11144,C1360,Pizza Point,Desserts,951.0,50.0,,Kakinada,Wallet,Delivered
+FD11145,C1388,Tasty Bites,Chinese,727.0,51.0,3.1,Hyderabad,Cash,Delivered
+FD11146,C1184,Food Palace,Biryani,545.0,55.0,4.5,Kakinada,Wallet,Delivered
+FD11147,C1281,Food Palace,Biryani,983.0,31.0,4.5,Hyderabad,UPI,Delivered
+FD11148,C1195,Tasty Bites,Pizza,393.0,49.0,4.9,Hyderabad,Card,Delivered
+FD11149,C1352,Food Palace,South Indian,1266.0,62.0,3.8,Kakinada,UPI,Delivered
+FD11150,C1195,Urban Kitchen,Biryani,349.0,19.0,3.6,Vijayawada,Wallet,Delivered
+FD11151,C1155,Food Palace,Desserts,977.0,62.0,4.4,Visakhapatnam,Wallet,Delivered
+FD11152,C1093,Royal Meals,South Indian,1047.0,46.0,2.8,Vijayawada,Card,Delivered
+FD11153,C1160,South Spice,Burger,1074.0,17.0,3.9,Vijayawada,Cash,Delivered
+FD11154,C1434,Food Palace,Chinese,1425.0,66.0,3.9,Vijayawada,UPI,Delivered
+FD11155,C1061,South Spice,South Indian,1148.0,61.0,2.7,Kakinada,Card,Delivered
+FD11156,C1122,Biryani House,Chinese,888.0,49.0,3.5,Kakinada,Card,Delivered
+FD11157,C1051,Spice Hub,South Indian,1083.0,66.0,4.6,Kakinada,Card,Cancelled
+FD11158,C1403,Urban Kitchen,Burger,988.0,28.0,4.6,Vijayawada,UPI,Delivered
+FD11159,C1277,Spice Hub,Biryani,989.0,62.0,2.7,Visakhapatnam,UPI,Delivered
+FD11160,C1005,Biryani House,Burger,169.0,45.0,2.7,Hyderabad,UPI,Delivered
+FD11161,C1466,Urban Kitchen,Biryani,724.0,45.0,3.2,Tirupati,Cash,Delivered
+FD11162,C1092,Tasty Bites,Biryani,974.0,31.0,4.7,Hyderabad,Card,Delivered
+FD11163,C1170,Tasty Bites,Chinese,1235.0,38.0,2.8,Hyderabad,Wallet,Delivered
+FD11164,C1317,South Spice,Desserts,1487.0,66.0,4.3,Tirupati,Wallet,Delivered
+FD11165,C1022,Biryani House,Burger,1426.0,37.0,2.8,Vijayawada,Card,Delivered
+FD11166,C1405,South Spice,South Indian,570.0,32.0,4.1,Visakhapatnam,Wallet,Delivered
+FD11167,C1326,Pizza Point,Burger,190.0,64.0,3.4,Visakhapatnam,Cash,Delivered
+FD11168,C1001,Food Palace,Chinese,629.0,68.0,4.5,Hyderabad,Cash,Delivered
+FD11169,C1133,Cafe Delight,Biryani,760.0,28.0,3.1,Tirupati,UPI,Delivered
+FD11170,C1233,Pizza Point,Chinese,838.0,64.0,4.1,Guntur,UPI,Delivered
+FD11171,C1012,Food Palace,Pizza,825.0,29.0,3.1,Vijayawada,UPI,Delivered
+FD11172,C1346,Urban Kitchen,Pizza,971.0,29.0,4.3,Hyderabad,UPI,Delivered
+FD11173,C1046,South Spice,South Indian,291.0,20.0,4.7,Visakhapatnam,UPI,Delivered
+FD11174,C1034,Urban Kitchen,Chinese,1365.0,41.0,2.8,Kakinada,Wallet,Refunded
+FD11175,C1433,Urban Kitchen,South Indian,237.0,29.0,4.7,Kakinada,Wallet,Delivered
+FD11176,C1078,Food Palace,South Indian,444.0,64.0,4.0,Tirupati,UPI,Delivered
+FD11177,C1218,,Pizza,1303.0,50.0,2.8,Tirupati,Cash,Cancelled
+FD11178,C1301,Food Palace,South Indian,1108.0,69.0,3.6,Hyderabad,Wallet,Delivered
+FD11179,C1411,Fresh Bowl,Pizza,602.0,22.0,2.9,Guntur,Cash,Delivered
+FD11180,C1073,Tasty Bites,Biryani,302.0,29.0,4.3,Visakhapatnam,Cash,Cancelled
+FD11181,C1282,Tasty Bites,Chinese,672.0,17.0,4.4,Hyderabad,Card,Delivered
+FD11182,C1249,Pizza Point,South Indian,291.0,61.0,2.8,Guntur,Card,Delivered
+FD11183,C1047,Tasty Bites,Pizza,104.0,27.0,3.8,Tirupati,UPI,Delivered
+FD11184,C1121,Food Palace,Burger,1360.0,55.0,4.5,Kakinada,Cash,Delivered
+FD11185,C1214,Royal Meals,South Indian,410.0,48.0,4.8,Vijayawada,Wallet,Delivered
+FD11186,C1239,South Spice,Desserts,648.0,38.0,3.8,Kakinada,Card,Delivered
+FD11187,C1056,Food Palace,Biryani,155.0,54.0,4.9,Visakhapatnam,Card,Refunded
+FD11188,C1350,Food Palace,Biryani,542.0,46.0,3.8,Visakhapatnam,Cash,Cancelled
+FD11189,C1107,Cafe Delight,Burger,1360.0,46.0,3.5,Kakinada,Card,Cancelled
+FD11190,C1319,South Spice,Pizza,969.0,44.0,4.6,Kakinada,Card,Cancelled
+FD11191,C1048,Fresh Bowl,South Indian,1320.0,66.0,3.7,Guntur,Wallet,Refunded
+FD11192,C1061,Tasty Bites,Pizza,684.0,63.0,3.7,Hyderabad,Cash,Delivered
+FD11193,C1337,South Spice,Biryani,851.0,27.0,3.7,Tirupati,Card,Delivered
+FD11194,C1026,Tasty Bites,Pizza,459.0,15.0,4.6,Guntur,Cash,Delivered
+FD11195,C1292,Pizza Point,Biryani,918.0,48.0,4.6,Vijayawada,Card,Cancelled
+FD11196,C1257,South Spice,Pizza,129.0,29.0,3.5,Kakinada,Wallet,Delivered
+FD11197,C1008,Tasty Bites,Burger,207.0,58.0,3.3,Vijayawada,Cash,Delivered
+FD11198,C1113,Fresh Bowl,Chinese,943.0,28.0,3.7,Vijayawada,Card,Delivered
+FD11199,C1355,Spice Hub,Burger,816.0,43.0,3.9,Guntur,Wallet,Delivered
+FD11200,C1253,,Burger,990.0,48.0,3.1,Tirupati,Card,Delivered
+FD11201,C1180,Urban Kitchen,Chinese,1059.0,32.0,4.5,Visakhapatnam,Cash,Delivered
+FD11202,C1207,Fresh Bowl,Chinese,992.0,68.0,3.7,Hyderabad,Card,Delivered
+FD11203,C1303,Cafe Delight,South Indian,831.0,21.0,3.3,Visakhapatnam,Cash,Delivered
+FD11204,C1127,Spice Hub,South Indian,705.0,43.0,2.8,Tirupati,Cash,Delivered
+FD11205,C1056,Pizza Point,Burger,556.0,69.0,3.1,Visakhapatnam,Card,Delivered
+FD11206,C1214,Fresh Bowl,Burger,714.0,45.0,4.9,Kakinada,Wallet,Delivered
+FD11207,C1014,Urban Kitchen,Biryani,797.0,39.0,3.3,Kakinada,UPI,Delivered
+FD11208,C1474,Urban Kitchen,Biryani,773.0,52.0,2.9,Guntur,Wallet,Delivered
+FD11209,C1028,Urban Kitchen,South Indian,1370.0,28.0,3.7,Vijayawada,Wallet,Cancelled
+FD11210,C1471,Biryani House,Desserts,642.0,22.0,3.3,Tirupati,Card,Delivered
+FD11211,C1078,Fresh Bowl,Desserts,956.0,41.0,2.6,Tirupati,Wallet,Delivered
+FD11212,C1216,Food Palace,South Indian,996.0,68.0,3.3,Visakhapatnam,Wallet,Delivered
+FD11213,C1386,Pizza Point,Biryani,377.0,16.0,3.9,Guntur,UPI,Delivered
+FD11214,C1365,Urban Kitchen,Biryani,651.0,31.0,3.9,Visakhapatnam,Wallet,Cancelled
+FD11215,C1154,Tasty Bites,Desserts,210.0,51.0,3.4,Visakhapatnam,UPI,Delivered
+FD11216,C1014,Fresh Bowl,Pizza,484.0,28.0,3.6,Tirupati,Card,Delivered
+FD11217,C1187,Biryani House,Pizza,860.0,39.0,4.9,Visakhapatnam,UPI,Delivered
+FD11218,C1312,Fresh Bowl,Biryani,1314.0,70.0,3.4,Vijayawada,Cash,Refunded
+FD11219,C1371,Pizza Point,Pizza,793.0,44.0,3.1,Visakhapatnam,Cash,Delivered
+FD11220,C1007,Biryani House,Chinese,504.0,43.0,3.1,Vijayawada,UPI,Delivered
+FD11221,C1003,Pizza Point,South Indian,1458.0,34.0,3.6,Tirupati,Cash,Delivered
+FD11222,C1111,Fresh Bowl,South Indian,1332.0,35.0,4.4,Guntur,Card,Cancelled
+FD11223,C1407,Food Palace,Biryani,121.0,67.0,3.0,Kakinada,Cash,Delivered
+FD11224,C1238,Pizza Point,Burger,777.0,36.0,4.3,Vijayawada,UPI,Delivered
+FD11225,C1363,Biryani House,Desserts,710.0,49.0,2.6,Guntur,Card,Delivered
+FD11226,C1239,Biryani House,Biryani,1331.0,51.0,3.5,Guntur,Cash,Delivered
+FD11227,C1493,Pizza Point,Pizza,107.0,30.0,4.4,Vijayawada,Card,Delivered
+FD11228,C1274,Royal Meals,Desserts,801.0,64.0,3.3,Tirupati,UPI,Delivered
+FD11229,C1294,Fresh Bowl,Burger,628.0,63.0,3.9,Hyderabad,Cash,Delivered
+FD11230,C1227,Royal Meals,Pizza,701.0,57.0,3.0,Guntur,Card,Refunded
+FD11231,C1371,Cafe Delight,Chinese,756.0,31.0,4.4,Guntur,Card,Delivered
+FD11232,C1015,Fresh Bowl,Pizza,265.0,30.0,2.6,Tirupati,Cash,Delivered
+FD11233,C1192,Pizza Point,Chinese,948.0,69.0,4.6,Tirupati,Card,Delivered
+FD11234,C1473,Spice Hub,Desserts,595.0,16.0,3.0,Visakhapatnam,Card,Delivered
+FD11235,C1119,Pizza Point,Chinese,689.0,18.0,4.7,Tirupati,UPI,Cancelled
+FD11236,C1485,Royal Meals,Desserts,528.0,35.0,3.4,Guntur,UPI,Delivered
+FD11237,C1028,Food Palace,Desserts,873.0,53.0,4.3,Vijayawada,UPI,Delivered
+FD11238,C1202,Pizza Point,Desserts,262.0,48.0,3.3,Hyderabad,UPI,Refunded
+FD11239,C1039,Pizza Point,Desserts,465.0,44.0,4.8,Visakhapatnam,UPI,Delivered
+FD11240,C1441,Food Palace,Desserts,1362.0,20.0,2.8,Vijayawada,UPI,Cancelled
+FD11241,C1273,Pizza Point,Pizza,171.0,31.0,2.9,Hyderabad,Cash,Delivered
+FD11242,C1231,Urban Kitchen,Desserts,754.0,53.0,3.7,Hyderabad,UPI,Cancelled
+FD11243,C1086,Spice Hub,Pizza,368.0,39.0,2.7,Hyderabad,Card,Delivered
+FD11244,C1474,Tasty Bites,Desserts,514.0,19.0,3.0,Kakinada,Cash,Delivered
+FD11245,C1126,Spice Hub,Chinese,1368.0,19.0,4.9,Vijayawada,Card,Cancelled
+FD11246,C1300,Pizza Point,Desserts,,34.0,4.9,Visakhapatnam,UPI,Delivered
+FD11247,C1025,Urban Kitchen,Burger,774.0,,3.4,Visakhapatnam,UPI,Delivered
+FD11248,C1145,Fresh Bowl,Desserts,1183.0,65.0,4.8,Hyderabad,Card,Delivered
+FD11249,C1013,Pizza Point,Desserts,105.0,55.0,,Vijayawada,Card,Cancelled
+FD11250,C1212,Royal Meals,Chinese,1081.0,51.0,3.2,Kakinada,Card,Delivered
+FD11251,C1025,Urban Kitchen,South Indian,669.0,54.0,4.3,Hyderabad,Wallet,Cancelled
+FD11252,C1068,Food Palace,Chinese,506.0,23.0,4.1,Tirupati,Wallet,Delivered
+FD11253,C1394,Urban Kitchen,Burger,1340.0,,5.0,Visakhapatnam,Wallet,Delivered
+FD11254,C1067,Food Palace,South Indian,125.0,56.0,3.2,Guntur,Wallet,Cancelled
+FD11255,C1233,Cafe Delight,Biryani,1128.0,16.0,4.2,Hyderabad,Cash,Delivered
+FD11256,C1109,Tasty Bites,Biryani,1085.0,23.0,2.6,Tirupati,UPI,Delivered
+FD11257,C1146,South Spice,Burger,489.0,57.0,2.8,Visakhapatnam,Card,Delivered
+FD11258,C1111,Urban Kitchen,Chinese,809.0,50.0,2.5,Kakinada,UPI,Delivered
+FD11259,C1228,Biryani House,Pizza,670.0,36.0,5.0,Vijayawada,Card,Delivered
+FD11260,C1111,Royal Meals,Burger,853.0,36.0,4.5,Visakhapatnam,UPI,Cancelled
+FD11261,C1470,Pizza Point,South Indian,245.0,36.0,4.5,Vijayawada,Cash,Delivered
+FD11262,C1034,Royal Meals,South Indian,884.0,48.0,3.8,Vijayawada,Wallet,Delivered
+FD11263,C1111,Spice Hub,Desserts,1372.0,69.0,3.3,Kakinada,UPI,Delivered
+FD11264,C1264,South Spice,Biryani,625.0,43.0,2.9,Kakinada,Card,Delivered
+FD11265,C1424,Spice Hub,South Indian,112.0,52.0,,Hyderabad,UPI,Delivered
+FD11266,C1369,Cafe Delight,Burger,1002.0,60.0,3.4,Hyderabad,Cash,Cancelled
+FD11267,C1236,South Spice,South Indian,483.0,47.0,4.4,Visakhapatnam,Cash,Delivered
+FD11268,C1083,South Spice,Burger,655.0,32.0,3.8,Kakinada,UPI,Delivered
+FD11269,C1042,Spice Hub,Pizza,,21.0,2.7,Tirupati,Wallet,Delivered
+FD11270,C1425,Food Palace,Desserts,118.0,15.0,2.5,Visakhapatnam,Card,Delivered
+FD11271,C1101,Spice Hub,Biryani,674.0,47.0,2.8,Guntur,Cash,Cancelled
+FD11272,C1006,Royal Meals,South Indian,850.0,15.0,3.5,Vijayawada,Cash,Delivered
+FD11273,C1180,Food Palace,Burger,1103.0,38.0,4.8,Vijayawada,UPI,Delivered
+FD11274,C1282,Royal Meals,Chinese,518.0,18.0,4.1,Hyderabad,Cash,Delivered
+FD11275,C1320,Cafe Delight,Biryani,1460.0,18.0,4.5,Tirupati,Cash,Delivered
+FD11276,C1226,Pizza Point,Pizza,518.0,32.0,3.7,Kakinada,Card,Delivered
+FD11277,C1443,Fresh Bowl,Burger,221.0,41.0,3.4,Kakinada,Wallet,Delivered
+FD11278,C1440,Food Palace,Desserts,531.0,57.0,2.8,Hyderabad,Card,Cancelled
+FD11279,C1315,Cafe Delight,Desserts,143.0,46.0,4.7,Guntur,Wallet,Cancelled
+FD11280,C1365,Biryani House,Pizza,1440.0,47.0,4.5,Visakhapatnam,Card,Delivered
+FD11281,C1454,Cafe Delight,Pizza,480.0,42.0,2.9,Visakhapatnam,UPI,Delivered
+FD11282,C1229,Spice Hub,Desserts,244.0,56.0,3.8,Tirupati,Cash,Delivered
+FD11283,C1377,Spice Hub,South Indian,1450.0,55.0,3.7,Hyderabad,Wallet,Refunded
+FD11284,C1289,Fresh Bowl,South Indian,462.0,69.0,4.1,Hyderabad,UPI,Refunded
+FD11285,C1437,Cafe Delight,Burger,1173.0,50.0,4.9,Guntur,Cash,Delivered
+FD11286,C1150,Tasty Bites,Chinese,1188.0,20.0,3.9,Visakhapatnam,Cash,Delivered
+FD11287,C1277,Pizza Point,Burger,454.0,30.0,3.9,Hyderabad,Cash,Delivered
+FD11288,C1198,Spice Hub,Chinese,899.0,48.0,2.6,Kakinada,Card,Delivered
+FD11289,C1070,Fresh Bowl,Pizza,1287.0,37.0,2.7,Tirupati,UPI,Delivered
+FD11290,C1112,Pizza Point,Biryani,1264.0,64.0,3.0,Visakhapatnam,UPI,Delivered
+FD11291,C1004,Cafe Delight,Burger,925.0,56.0,2.6,Guntur,Cash,Delivered
+FD11292,C1350,Cafe Delight,Burger,1251.0,38.0,4.4,Tirupati,Wallet,Delivered
+FD11293,C1331,South Spice,Chinese,497.0,70.0,4.3,Vijayawada,UPI,Delivered
+FD11294,C1446,Fresh Bowl,Pizza,979.0,63.0,2.8,Kakinada,Card,Delivered
+FD11295,C1318,Spice Hub,Pizza,562.0,27.0,4.6,Guntur,Wallet,Delivered
+FD11296,C1350,Tasty Bites,Chinese,907.0,70.0,2.9,Tirupati,Wallet,Delivered
+FD11297,C1095,Cafe Delight,Pizza,286.0,32.0,3.3,Hyderabad,Wallet,Delivered
+FD11298,C1152,Tasty Bites,Desserts,831.0,68.0,3.1,Vijayawada,Wallet,Delivered
+FD11299,C1311,Cafe Delight,South Indian,1313.0,27.0,3.4,Guntur,UPI,Delivered
+FD11300,C1137,Spice Hub,Desserts,528.0,63.0,3.1,Hyderabad,Cash,Delivered
+FD11301,C1247,Pizza Point,Biryani,957.0,51.0,3.7,Kakinada,Wallet,Delivered
+FD11302,C1387,Urban Kitchen,Burger,1407.0,57.0,3.5,Vijayawada,Card,Delivered
+FD11303,C1243,Pizza Point,Biryani,336.0,53.0,5.0,Visakhapatnam,Card,Delivered
+FD11304,C1031,Cafe Delight,Burger,1317.0,56.0,2.6,Hyderabad,Cash,Delivered
+FD11305,C1040,Royal Meals,South Indian,1410.0,31.0,2.9,Tirupati,UPI,Delivered
+FD11306,C1229,Urban Kitchen,Pizza,870.0,29.0,2.6,Guntur,Cash,Delivered
+FD11307,C1036,Urban Kitchen,Desserts,857.0,32.0,4.1,Vijayawada,Wallet,Delivered
+FD11308,C1408,Tasty Bites,Chinese,235.0,37.0,2.6,Hyderabad,UPI,Delivered
+FD11309,C1223,Fresh Bowl,,891.0,68.0,4.6,Visakhapatnam,UPI,Delivered
+FD11310,C1006,Tasty Bites,South Indian,270.0,65.0,3.8,Guntur,Wallet,Delivered
+FD11311,C1322,Tasty Bites,Biryani,258.0,44.0,3.8,Guntur,Card,Delivered
+FD11312,C1468,Royal Meals,Chinese,300.0,48.0,3.9,Hyderabad,Wallet,Delivered
+FD11313,C1220,Pizza Point,Pizza,1061.0,18.0,2.9,Visakhapatnam,Cash,Cancelled
+FD11314,C1075,Pizza Point,South Indian,682.0,17.0,3.0,Kakinada,Wallet,Delivered
+FD11315,C1004,Biryani House,Chinese,975.0,21.0,3.3,Kakinada,Card,Delivered
+FD11316,C1335,Cafe Delight,South Indian,470.0,70.0,4.0,Vijayawada,Wallet,Delivered
+FD11317,C1134,Royal Meals,South Indian,202.0,32.0,3.0,Hyderabad,Cash,Refunded
+FD11318,C1118,Biryani House,Pizza,1101.0,56.0,2.8,Vijayawada,Cash,Delivered
+FD11319,C1369,Spice Hub,Burger,1248.0,21.0,4.9,Kakinada,Card,Delivered
+FD11320,C1094,Cafe Delight,Chinese,1436.0,54.0,2.6,Guntur,Cash,Cancelled
+FD11321,C1486,Cafe Delight,Pizza,1075.0,20.0,4.5,Vijayawada,Cash,Delivered
+FD11322,C1435,South Spice,South Indian,897.0,36.0,4.5,Visakhapatnam,Wallet,Cancelled
+FD11323,C1062,South Spice,Pizza,1353.0,15.0,3.2,Tirupati,UPI,Cancelled
+FD11324,C1441,Food Palace,Burger,757.0,18.0,2.8,Kakinada,Cash,Delivered
+FD11325,C1194,Food Palace,Desserts,981.0,60.0,2.9,Kakinada,Cash,Delivered
+FD11326,C1335,Tasty Bites,Chinese,1320.0,63.0,4.2,Visakhapatnam,Card,Delivered
+FD11327,C1203,Spice Hub,Burger,832.0,66.0,4.1,Vijayawada,Card,Delivered
+FD11328,C1392,Urban Kitchen,Biryani,522.0,64.0,4.5,Hyderabad,Wallet,Delivered
+FD11329,C1026,Urban Kitchen,Chinese,671.0,57.0,4.8,Guntur,Wallet,Delivered
+FD11330,C1435,South Spice,Burger,270.0,43.0,4.2,Tirupati,Cash,Delivered
+FD11331,C1173,South Spice,South Indian,272.0,35.0,2.9,Hyderabad,UPI,Delivered
+FD11332,C1300,South Spice,Chinese,762.0,40.0,3.1,Hyderabad,UPI,Delivered
+FD11333,C1133,Royal Meals,Chinese,552.0,28.0,4.6,Visakhapatnam,Wallet,Delivered
+FD11334,C1326,Fresh Bowl,Pizza,449.0,23.0,3.0,Vijayawada,Card,Delivered
+FD11335,C1410,Food Palace,South Indian,593.0,61.0,2.7,Kakinada,Cash,Delivered
+FD11336,C1118,Royal Meals,Biryani,719.0,26.0,4.3,Kakinada,Cash,Delivered
+FD11337,C1324,Pizza Point,Desserts,1127.0,56.0,3.5,Visakhapatnam,UPI,Delivered
+FD11338,C1275,Urban Kitchen,Burger,1216.0,65.0,4.8,Vijayawada,Wallet,Delivered
+FD11339,C1212,Cafe Delight,Pizza,1018.0,70.0,4.1,Visakhapatnam,UPI,Refunded
+FD11340,C1225,Food Palace,Burger,105.0,65.0,2.7,Kakinada,UPI,Delivered
+FD11341,C1020,Biryani House,Biryani,387.0,20.0,4.9,Hyderabad,Wallet,Delivered
+FD11342,C1113,Pizza Point,Biryani,1269.0,34.0,3.1,Guntur,Card,Delivered
+FD11343,C1140,Food Palace,Chinese,707.0,38.0,3.3,Vijayawada,Cash,Delivered
+FD11344,C1047,Royal Meals,Biryani,556.0,41.0,3.5,Tirupati,Card,Delivered
+FD11345,C1001,Spice Hub,Burger,1325.0,52.0,2.6,Tirupati,Wallet,Delivered
+FD11346,C1090,Cafe Delight,South Indian,1335.0,22.0,,Hyderabad,Wallet,Delivered
+FD11347,C1142,Food Palace,South Indian,1129.0,15.0,2.8,Visakhapatnam,Cash,Cancelled
+FD11348,C1320,Fresh Bowl,Chinese,723.0,68.0,3.5,Visakhapatnam,Card,Delivered
+FD11349,C1038,South Spice,Desserts,475.0,63.0,3.4,Kakinada,Cash,Delivered
+FD11350,C1293,South Spice,Burger,546.0,63.0,4.4,Hyderabad,UPI,Cancelled
+FD11351,C1382,Cafe Delight,Burger,934.0,38.0,4.5,Kakinada,UPI,Delivered
+FD11352,C1139,Royal Meals,Biryani,1229.0,61.0,2.9,Kakinada,UPI,Delivered
+FD11353,C1356,South Spice,Burger,910.0,21.0,3.4,Tirupati,Card,Delivered
+FD11354,C1333,Food Palace,Pizza,1219.0,33.0,3.4,Kakinada,UPI,Delivered
+FD11355,C1491,Biryani House,Desserts,1058.0,36.0,2.9,Kakinada,Cash,Delivered
+FD11356,C1259,Urban Kitchen,Biryani,948.0,69.0,4.5,Tirupati,Card,Delivered
+FD11357,C1161,Urban Kitchen,Pizza,908.0,49.0,4.3,Visakhapatnam,Cash,Cancelled
+FD11358,C1390,Pizza Point,Chinese,1078.0,44.0,3.0,Vijayawada,Wallet,Refunded
+FD11359,C1178,Tasty Bites,South Indian,515.0,43.0,3.4,Guntur,Card,Cancelled
+FD11360,C1010,Spice Hub,Chinese,825.0,36.0,2.8,Kakinada,Cash,Cancelled
+FD11361,C1261,Cafe Delight,South Indian,553.0,25.0,4.1,Vijayawada,Cash,Delivered
+FD11362,C1407,Pizza Point,Chinese,1414.0,34.0,2.8,Tirupati,Card,Delivered
+FD11363,C1138,Tasty Bites,Burger,1316.0,43.0,5.0,Vijayawada,Wallet,Delivered
+FD11364,C1172,Royal Meals,Pizza,249.0,65.0,4.5,Guntur,Card,Delivered
+FD11365,C1386,Fresh Bowl,South Indian,858.0,55.0,3.5,Vijayawada,UPI,Cancelled
+FD11366,C1013,Fresh Bowl,Biryani,878.0,56.0,3.9,Vijayawada,UPI,Delivered
+FD11367,C1168,Spice Hub,Pizza,1072.0,48.0,4.8,Vijayawada,Wallet,Cancelled
+FD11368,C1130,South Spice,Biryani,862.0,15.0,3.9,Vijayawada,Cash,Cancelled
+FD11369,C1084,Food Palace,Pizza,1101.0,45.0,2.9,Hyderabad,Cash,Refunded
+FD11370,C1321,Pizza Point,Pizza,1439.0,44.0,3.4,Kakinada,Cash,Cancelled
+FD11371,C1319,Pizza Point,Chinese,175.0,62.0,4.6,Tirupati,Card,Delivered
+FD11372,C1101,Cafe Delight,South Indian,698.0,32.0,4.1,Guntur,Card,Delivered
+FD11373,C1329,Cafe Delight,South Indian,1393.0,69.0,4.1,Tirupati,Wallet,Delivered
+FD11374,C1273,Fresh Bowl,Pizza,324.0,31.0,4.7,Hyderabad,UPI,Delivered
+FD11375,C1265,Fresh Bowl,Burger,212.0,52.0,4.7,Hyderabad,Cash,Delivered
+FD11376,C1459,Biryani House,Burger,350.0,28.0,4.8,Hyderabad,UPI,Cancelled
+FD11377,C1399,Biryani House,Biryani,1356.0,37.0,2.7,Kakinada,Card,Cancelled
+FD11378,C1408,South Spice,Biryani,940.0,39.0,3.9,Hyderabad,Card,Delivered
+FD11379,C1038,Biryani House,Chinese,813.0,29.0,4.4,Vijayawada,Card,Delivered
+FD11380,C1419,Food Palace,Pizza,1206.0,60.0,4.4,Tirupati,UPI,Delivered
+FD11381,C1094,Food Palace,Biryani,224.0,70.0,4.0,Visakhapatnam,Wallet,Delivered
+FD11382,C1095,Pizza Point,Biryani,1298.0,36.0,2.9,Guntur,Wallet,Delivered
+FD11383,C1305,Urban Kitchen,Desserts,1192.0,17.0,4.5,Hyderabad,Card,Delivered
+FD11384,C1069,Food Palace,Pizza,1170.0,70.0,4.3,Tirupati,Cash,Delivered
+FD11385,C1318,Tasty Bites,Chinese,983.0,69.0,2.7,Hyderabad,UPI,Delivered
+FD11386,C1444,Fresh Bowl,,1379.0,33.0,3.7,Kakinada,Card,Delivered
+FD11387,C1236,Cafe Delight,Chinese,129.0,58.0,2.9,Hyderabad,UPI,Delivered
+FD11388,C1434,Biryani House,South Indian,380.0,48.0,3.3,Hyderabad,UPI,Delivered
+FD11389,C1334,Pizza Point,Chinese,1023.0,49.0,2.5,Hyderabad,Wallet,Delivered
+FD11390,C1373,Spice Hub,Burger,1360.0,64.0,3.5,Hyderabad,Card,Delivered
+FD11391,C1376,Cafe Delight,Burger,1371.0,15.0,3.9,Guntur,Wallet,Refunded
+FD11392,C1459,Tasty Bites,Chinese,467.0,66.0,4.0,Tirupati,Card,Delivered
+FD11393,C1137,Biryani House,Burger,594.0,35.0,4.2,Kakinada,UPI,Delivered
+FD11394,C1418,Tasty Bites,South Indian,1148.0,43.0,4.6,Hyderabad,Wallet,Delivered
+FD11395,C1076,Fresh Bowl,Pizza,817.0,20.0,3.0,Hyderabad,UPI,Delivered
+FD11396,C1483,Fresh Bowl,Burger,1116.0,51.0,2.8,Hyderabad,Card,Cancelled
+FD11397,C1035,South Spice,Burger,1437.0,15.0,4.6,Hyderabad,Cash,Delivered
+FD11398,C1001,Pizza Point,Chinese,705.0,65.0,2.9,Vijayawada,Wallet,Delivered
+FD11399,C1296,Cafe Delight,South Indian,474.0,15.0,4.9,Vijayawada,Wallet,Delivered
+FD11400,C1320,Royal Meals,Pizza,738.0,41.0,4.6,Visakhapatnam,UPI,Delivered
+FD11401,C1406,Royal Meals,Chinese,1148.0,35.0,3.8,Hyderabad,UPI,Delivered
+FD11402,C1060,Cafe Delight,Chinese,1457.0,67.0,5.0,Visakhapatnam,Cash,Delivered
+FD11403,C1320,Spice Hub,Desserts,1478.0,30.0,2.7,Guntur,Wallet,Delivered
+FD11404,C1349,Pizza Point,South Indian,215.0,58.0,3.3,Visakhapatnam,Card,Delivered
+FD11405,C1328,Tasty Bites,Pizza,147.0,68.0,4.1,Tirupati,Card,Delivered
+FD11406,C1267,Spice Hub,South Indian,198.0,54.0,3.4,Vijayawada,Wallet,Delivered
+FD11407,C1361,Urban Kitchen,Pizza,504.0,40.0,4.8,Vijayawada,Wallet,Delivered
+FD11408,C1229,Cafe Delight,South Indian,1337.0,30.0,2.7,Hyderabad,Wallet,Delivered
+FD11409,C1270,Tasty Bites,Chinese,784.0,42.0,3.9,Hyderabad,Cash,Delivered
+FD11410,C1316,Royal Meals,Chinese,1002.0,15.0,4.0,Guntur,Card,Delivered
+FD11411,C1286,Food Palace,Biryani,602.0,50.0,4.1,Kakinada,Card,Delivered
+FD11412,C1291,South Spice,Burger,993.0,24.0,3.1,Guntur,UPI,Delivered
+FD11413,C1213,Royal Meals,Desserts,357.0,57.0,3.4,Tirupati,UPI,Delivered
+FD11414,C1165,Pizza Point,South Indian,943.0,31.0,4.6,Hyderabad,Wallet,Delivered
+FD11415,C1005,Fresh Bowl,Desserts,220.0,37.0,3.0,Hyderabad,UPI,Refunded
+FD11416,C1339,Food Palace,Biryani,909.0,21.0,4.6,Guntur,Cash,Delivered
+FD11417,C1379,South Spice,Burger,1077.0,58.0,3.9,Guntur,Card,Delivered
+FD11418,C1078,South Spice,South Indian,153.0,67.0,4.4,Guntur,Card,Delivered
+FD11419,C1410,Urban Kitchen,Pizza,1118.0,21.0,4.3,Vijayawada,UPI,Cancelled
+FD11420,C1062,Urban Kitchen,Burger,1454.0,58.0,3.0,Visakhapatnam,Wallet,Delivered
+FD11421,C1132,Biryani House,Chinese,883.0,29.0,3.9,Visakhapatnam,UPI,Refunded
+FD11422,C1089,Royal Meals,Biryani,340.0,48.0,4.7,Hyderabad,Wallet,Refunded
+FD11423,C1237,Royal Meals,Burger,582.0,60.0,3.6,Vijayawada,Cash,Delivered
+FD11424,C1042,Royal Meals,Burger,1112.0,59.0,4.9,Guntur,Card,Refunded
+FD11425,C1089,Biryani House,Chinese,286.0,18.0,3.6,Hyderabad,Cash,Delivered
+FD11426,C1402,Spice Hub,South Indian,755.0,28.0,2.9,Vijayawada,Card,Cancelled
+FD11427,C1296,South Spice,Pizza,361.0,28.0,3.5,Tirupati,Cash,Delivered
+FD11428,C1328,Food Palace,Chinese,1052.0,30.0,4.9,Kakinada,UPI,Delivered
+FD11429,C1295,Pizza Point,Pizza,1487.0,21.0,3.3,Vijayawada,Cash,Delivered
+FD11430,C1104,South Spice,South Indian,590.0,46.0,4.7,Hyderabad,Cash,Delivered
+FD11431,C1014,Urban Kitchen,Burger,530.0,33.0,4.7,Visakhapatnam,UPI,Delivered
+FD11432,C1288,Tasty Bites,Pizza,338.0,16.0,3.4,Guntur,Card,Delivered
+FD11433,C1179,Fresh Bowl,Biryani,403.0,24.0,2.7,Kakinada,Card,Delivered
+FD11434,C1125,Biryani House,Biryani,397.0,64.0,4.3,Tirupati,UPI,Delivered
+FD11435,C1422,Cafe Delight,Chinese,175.0,31.0,3.3,Kakinada,Cash,Delivered
+FD11436,C1353,Tasty Bites,South Indian,1456.0,51.0,4.5,Kakinada,Cash,Delivered
+FD11437,C1023,Pizza Point,Chinese,1098.0,26.0,3.6,Vijayawada,Cash,Delivered
+FD11438,C1063,Royal Meals,Chinese,741.0,20.0,3.7,Hyderabad,Wallet,Delivered
+FD11439,C1143,Urban Kitchen,Desserts,926.0,36.0,4.4,Hyderabad,Card,Delivered
+FD11440,C1481,Urban Kitchen,Chinese,382.0,46.0,3.5,Kakinada,Cash,Delivered
+FD11441,C1153,Urban Kitchen,Desserts,690.0,55.0,3.6,Guntur,Card,Delivered
+FD11442,C1145,Royal Meals,Biryani,171.0,34.0,3.4,Hyderabad,Cash,Refunded
+FD11443,C1225,Cafe Delight,Biryani,1386.0,15.0,3.4,Kakinada,UPI,Delivered
+FD11444,C1495,Biryani House,Chinese,802.0,68.0,3.8,Hyderabad,UPI,Refunded
+FD11445,C1450,Tasty Bites,Biryani,674.0,61.0,4.5,Guntur,Card,Delivered
+FD11446,C1462,Royal Meals,South Indian,1099.0,67.0,3.4,Tirupati,Card,Delivered
+FD11447,C1309,Pizza Point,Desserts,991.0,20.0,3.8,Kakinada,UPI,Delivered
+FD11448,C1104,Biryani House,Desserts,111.0,33.0,4.2,Visakhapatnam,Wallet,Cancelled
+FD11449,C1104,Pizza Point,Chinese,240.0,32.0,3.2,Visakhapatnam,UPI,Delivered
+FD11450,C1435,Biryani House,Biryani,116.0,20.0,3.2,Kakinada,Cash,Delivered
+FD11451,C1039,Cafe Delight,Pizza,1186.0,59.0,4.8,Vijayawada,Wallet,Delivered
+FD11452,C1435,Fresh Bowl,Desserts,352.0,47.0,4.3,Tirupati,UPI,Delivered
+FD11453,C1198,Pizza Point,Chinese,564.0,37.0,3.9,Vijayawada,Wallet,Cancelled
+FD11454,C1134,Royal Meals,Chinese,475.0,37.0,4.1,Visakhapatnam,Wallet,Delivered
+FD11455,C1067,Biryani House,South Indian,1080.0,40.0,2.6,Guntur,Wallet,Delivered
+FD11456,C1391,Urban Kitchen,Burger,619.0,27.0,4.0,Kakinada,Card,Delivered
+FD11457,C1179,South Spice,Burger,189.0,21.0,3.8,Hyderabad,UPI,Delivered
+FD11458,C1456,Urban Kitchen,Desserts,819.0,29.0,3.9,Visakhapatnam,Card,Delivered
+FD11459,C1042,Spice Hub,South Indian,903.0,58.0,3.4,Tirupati,Card,Delivered
+FD11460,C1448,Fresh Bowl,South Indian,895.0,41.0,2.7,Visakhapatnam,Cash,Cancelled
+FD11461,C1500,Fresh Bowl,South Indian,729.0,40.0,3.0,Tirupati,Cash,Delivered
+FD11462,C1015,Urban Kitchen,Desserts,1298.0,47.0,4.9,Tirupati,Wallet,Cancelled
+FD11463,C1111,Tasty Bites,Burger,175.0,29.0,3.5,Kakinada,Wallet,Delivered
+FD11464,C1157,Cafe Delight,South Indian,1025.0,50.0,3.7,Tirupati,Cash,Delivered
+FD11465,C1289,Pizza Point,Biryani,499.0,59.0,2.6,Vijayawada,Cash,Delivered
+FD11466,C1500,Royal Meals,Chinese,1069.0,69.0,2.6,Guntur,UPI,Delivered
+FD11467,C1478,Fresh Bowl,Chinese,1194.0,41.0,4.3,Visakhapatnam,Wallet,Delivered
+FD11468,C1231,Urban Kitchen,Pizza,1303.0,19.0,3.8,Guntur,Wallet,Delivered
+FD11469,C1411,Urban Kitchen,Pizza,1247.0,16.0,3.8,Hyderabad,Cash,Delivered
+FD11470,C1420,Cafe Delight,Desserts,1416.0,69.0,3.1,Visakhapatnam,UPI,Delivered
+FD11471,C1157,Cafe Delight,Desserts,896.0,47.0,4.4,Guntur,Cash,Delivered
+FD11472,C1038,Food Palace,Chinese,294.0,30.0,2.9,Guntur,Cash,Delivered
+FD11473,C1441,Food Palace,Biryani,327.0,37.0,3.0,Kakinada,Card,Delivered
+FD11474,C1097,Tasty Bites,Burger,560.0,52.0,3.7,Kakinada,Wallet,Delivered
+FD11475,C1485,Tasty Bites,Burger,717.0,69.0,3.2,Hyderabad,UPI,Delivered
+FD11476,C1411,Spice Hub,Desserts,1144.0,30.0,3.1,Tirupati,Card,Delivered
+FD11477,C1439,Tasty Bites,Biryani,163.0,28.0,4.1,Visakhapatnam,Wallet,Refunded
+FD11478,C1289,Biryani House,Desserts,264.0,43.0,4.1,Kakinada,Cash,Cancelled
+FD11479,C1254,Cafe Delight,Burger,126.0,40.0,4.6,Visakhapatnam,UPI,Delivered
+FD11480,C1196,Royal Meals,Desserts,1434.0,49.0,3.5,Hyderabad,Wallet,Delivered
+FD11481,C1086,Biryani House,South Indian,1111.0,29.0,2.7,Kakinada,Cash,Delivered
+FD11482,C1322,Pizza Point,Desserts,384.0,17.0,3.2,Kakinada,Card,Delivered
+FD11483,C1010,Urban Kitchen,Chinese,380.0,37.0,5.0,Tirupati,UPI,Delivered
+FD11484,C1005,Tasty Bites,Desserts,937.0,43.0,4.0,Visakhapatnam,Wallet,Delivered
+FD11485,C1123,Urban Kitchen,Chinese,930.0,48.0,4.3,Visakhapatnam,Card,Delivered
+FD11486,C1330,Fresh Bowl,Biryani,1287.0,47.0,2.5,Visakhapatnam,Cash,Delivered
+FD11487,C1353,Spice Hub,Burger,1017.0,55.0,3.8,Tirupati,Cash,Delivered
+FD11488,C1118,Fresh Bowl,Pizza,323.0,55.0,2.6,Kakinada,Wallet,Delivered
+FD11489,C1294,Spice Hub,Pizza,883.0,37.0,3.9,Hyderabad,Cash,Delivered
+FD11490,C1397,Food Palace,Burger,1269.0,21.0,4.8,Visakhapatnam,UPI,Delivered
+FD10758,C1152,Biryani House,Chinese,1152.0,40.0,4.6,Hyderabad,Cash,Delivered
+FD11199,C1355,Spice Hub,Burger,816.0,43.0,3.9,Guntur,Wallet,Delivered
+FD10547,C1153,Fresh Bowl,Chinese,682.0,45.0,3.2,Guntur,UPI,Delivered
+FD11085,C1103,Fresh Bowl,Desserts,895.0,20.0,4.6,Vijayawada,Cash,Refunded
+FD10196,C1096,Tasty Bites,Pizza,709.0,46.0,4.8,Vijayawada,Card,Delivered
+FD10922,C1020,,Pizza,219.0,54.0,3.2,Hyderabad,Card,Delivered
+FD10127,C1157,Food Palace,Biryani,1152.0,51.0,3.9,Kakinada,UPI,Delivered
+FD10818,C1398,Food Palace,Pizza,,37.0,4.8,Hyderabad,Cash,Delivered
+FD11109,C1051,Fresh Bowl,South Indian,1019.0,22.0,4.6,Kakinada,Card,Delivered
+FD10500,C1151,Royal Meals,Biryani,924.0,46.0,3.8,Vijayawada,Card,Delivered
